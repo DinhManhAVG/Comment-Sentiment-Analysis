@@ -592,7 +592,6 @@ khó nghĩ
 khó nói
 khó thấy
 khó tránh
-không
 không ai
 không bao giờ
 không bao lâu
@@ -600,7 +599,6 @@ không biết
 không bán
 không chỉ
 không còn
-không có
 không có gì
 không cùng
 không cần
@@ -773,6 +771,7 @@ mọi thứ
 mọi việc
 mối
 mỗi
+mỗi tội
 mỗi lúc
 mỗi lần
 mỗi một
@@ -786,7 +785,6 @@ một lúc
 một số
 một vài
 một ít
-mới
 mới hay
 mới rồi
 mới đây
@@ -878,7 +876,6 @@ ngồi không
 ngồi sau
 ngồi trệt
 ngộ nhỡ
-nhanh
 nhanh lên
 nhanh tay
 nhau
@@ -956,7 +953,6 @@ nhằm lúc
 nhằm vào
 nhằm để
 nhỉ
-nhỏ
 nhỏ người
 nhớ
 nhớ bập bõm
@@ -1189,7 +1185,6 @@ rồi xem
 rồi đây
 rứa
 sa sả
-sang
 sang năm
 sang sáng
 sang tay
@@ -1515,7 +1510,6 @@ tỏ ra
 tỏ vẻ
 tốc tả
 tối ư
-tốt
 tốt bạn
 tốt bộ
 tốt mối
@@ -1909,3 +1903,9 @@ yêu cầu
 ừ ào
 ừ ừ
 ử
+cứ cứ
+thực sự
+facebook
+youtube
+mb
+đôi khi

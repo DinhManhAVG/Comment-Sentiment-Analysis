@@ -22,6 +22,7 @@ trả ngay
 trả trước
 tăng giảm
 tăng thêm
+tốt
 tốt hơn
 tới mức
 vấn đề
@@ -30,8 +31,21 @@ vấn đề quan trọng
 ít khi
 được cái
 hết
+nhỏ
+sang
+nhanh
+mới
 
+--
+không có
+không, ví dụ: sản phẩm này không tốt >< sản phẩm này tốt
+facebook
+youtube
+mb
 
-# Them moi:
+# Thêm mới vào stopwords:
 bị
-cứcứ
+cứ cứ
+mỗi tội
+thực sự
+đôi khi
