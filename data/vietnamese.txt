@@ -465,15 +465,12 @@ dẫu
 dẫu mà
 dẫu rằng
 dẫu sao
-dễ
-dễ dùng
 dễ gì
 dễ khiến
 dễ nghe
 dễ ngươi
 dễ như chơi
 dễ sợ
-dễ sử dụng
 dễ thường
 dễ thấy
 dễ ăn
@@ -485,7 +482,6 @@ em
 em em
 giá trị
 giá trị thực tế
-giảm
 giảm chính
 giảm thấp
 giảm thế
@@ -1662,7 +1658,6 @@ xuất hiện
 xuất kì bất ý
 xuất kỳ bất ý
 xuể
-xuống
 xăm xúi
 xăm xăm
 xăm xắm
