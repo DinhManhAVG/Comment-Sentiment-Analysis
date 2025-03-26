@@ -1732,7 +1732,6 @@ yêu_cầu
 điều
 điều_gì
 điều_kiện
-điểm
 điểm_chính
 điểm_gặp
 điểm_đầu_tiên
