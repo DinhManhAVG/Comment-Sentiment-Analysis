@@ -35,6 +35,11 @@ nhỏ
 sang
 nhanh
 mới
+xuống
+giảm
+dễ
+dễ dùng
+dễ sử dụng
 
 --
 không có
@@ -49,3 +54,4 @@ cứ cứ
 mỗi tội
 thực sự
 đôi khi
+điểm

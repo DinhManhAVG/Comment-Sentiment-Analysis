@@ -1,3 +1,5 @@
 - % pin nên loại không
-sản phẩm 10 đ, khác gì với sản phẩm 3/5 điểm => Chưa giải quyết được => Cần đảo lại thứ tự 
-sản phẩm này "được"?? từ "được" xử lý sao??
+- sản phẩm 10 đ, khác gì với sản phẩm 3/5 điểm => Chưa giải quyết được => Cần đảo lại thứ tự 
+- sản phẩm này "được"?? từ "được" xử lý sao??
+- Hàm word_tokenize của underthesea không tốt, nó tách 4g thành 4 và g.
+- Từ "từ" có nên xem là stopword không?
