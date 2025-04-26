@@ -1,4 +1,4 @@
-﻿product_id,comment,rating,source_file
+product_id,comment,rating,source_file
 honor-x8b,"Đừng mua, ko có linh kiện.",1,ratings\honor-x8b.csv
 honor-x8b,máy sao cũng được ghét nhất cái zalo vui nó báo hiện tn cuộc gọi buồn thì nó im ru hên ít sài zalo chứ sài nhiều chắc vức,3,ratings\honor-x8b.csv
 honor-x8b,"Chiếc điện thoại mỏng nhất tôi từng dùng, cũng là chip 680 trên máy này mượt hơn nhiều 680 ở SS a05s vợ đag dùng",5,ratings\honor-x8b.csv
@@ -406,7 +406,7 @@ iphone-13,Mình mua màu đen nhưng đem về nhà thấy màu xanh,4,ratings\i
 iphone-13,Khá Tốt,4,ratings\iphone-13.csv
 iphone-13,Tốt,5,ratings\iphone-13.csv
 iphone-13,Sản phẩm tốt,5,ratings\iphone-13.csv
-iphone-13,Nc Thai do tot,5,ratings\iphone-13.csv
+iphone-13,nhân viên thái độ tốt,5,ratings\iphone-13.csv
 iphone-13,"Úi qua vừa đi mua xong phải nói là chim ưng nhaa. Nhân viên tư vấn nhiệt tình nữa, dùng thích lắm luôn. Màu Hồng đẹp thực sự",5,ratings\iphone-13.csv
 iphone-13,Nhân viên giao hàng nhiệt tình,5,ratings\iphone-13.csv
 iphone-13,Xịn,5,ratings\iphone-13.csv
@@ -422,7 +422,7 @@ iphone-13,Tốt,5,ratings\iphone-13.csv
 iphone-14,"Máy mới mua ít SD, mới 22 ngày còn 98%tổng dung lượng pin, đêm 10h để đến sáng tắt tất cả mà hết 10% pin gửi kiểm định máy thì TL pin bình thường mà hok giải thích j về vấn đề tình trạng tuột pin nản.ai mua nên cân nhắc ạ, lúc mua thì NV tư vấn máy tự tốt, ổn,OK.đến khi có sự cố thì bảo là iPhone dòng thường thì pin nó sẽ như vậy.vậy sao lúc TV hok nói vậy đi, bán xong là hết trách nhiệm",1,ratings\iphone-14.csv
 iphone-14,A.c cho hỏi thay pin zin ở cửa hàng ủy quyền Apple về có hiện thị % pin ko ạ,3,ratings\iphone-14.csv
 iphone-14,"Dùng được 2 năm rồi máy vẫn chạy tốt, mua ở Điện máy xanh và Thế giới di động bao uy tín",5,ratings\iphone-14.csv
-iphone-14,Có ai bị quay time plase cam trước không lưu video như em không ạ,3,ratings\iphone-14.csv
+iphone-14,Có ai bị quay time please cam trước không lưu video như em không ạ,3,ratings\iphone-14.csv
 iphone-14,hàng rất ok. camera chụp ảnh đẹp. Quay video có chống rung quang học rất tốt. Pin trâu cả ngày làm việc ok. Không có điểm chê trách.,5,ratings\iphone-14.csv
 iphone-14,Quả máy mới mua hum 20 tháng 5 năm 2024 mà trượt lúc được lúc không máy thì dùg ô khê,5,ratings\iphone-14.csv
 iphone-14,Cho mình hỏi mình mua đt lúc tháng 8 đến nay dây cáp sạc của mình lúc sạc pin đc lúc ko thì có đc đổi dây cáp sạc k vậy,3,ratings\iphone-14.csv
@@ -431,7 +431,6 @@ iphone-14,"Cho e hỏi IP14 thường 128G, có tuột pin ko ạ. E mới mua v
 iphone-14,dịch vụ tgdd bây giờ quá kém. mua đt báo mua củ sạc đc giảm tới 20%. đặt online phí ship có 10k thì k cho áp giảm. bắt mua giảm 10% thì chịu ship 30k. trc đây dv ok mà h tệ quá.,1,ratings\iphone-14.csv
 iphone-14,"Mướt mườn mượt, 10 điểm k có nhưng. Chụp ảnh nét nẹt lun. Cầm vừa tay k bị to hay nặng quá nchung là ưnggggg luôn đồng hành cùng với TGDD",5,ratings\iphone-14.csv
 iphone-14,Mượt mà. Chụp ảnh xuất sắc. Tạm thời rất ưng ý,5,ratings\iphone-14.csv
-iphone-14,.,2,ratings\iphone-14.csv
 iphone-14,Tốt,5,ratings\iphone-14.csv
 iphone-14,Máy rất tốt rất hài lòng về sản phẩm,5,ratings\iphone-14.csv
 iphone-14,oki,4,ratings\iphone-14.csv
@@ -533,12 +532,6 @@ iphone-15-plus,Bị lỗi sạc điện thoại không vào pin khi mới mua c�
 iphone-15-plus,Xài pin 1 ngày khỏi suy nghĩ tgdd ngã 3 đh phục vụ tốt,5,ratings\iphone-15-plus.csv
 iphone-15-plus,"Điện thoại mk mới mua hôm 2710 đến hnay là 211 mới dùng đc mấy hôm mà đt tụt pin nhiều quá có 7tiếng đồng hồ mk tắt hết wifi, 4g và các tác vụ ứng dụng chạy ngầm và không dùng điện thoại trong thời gian đó nhưng vẫn bị tụt mất 6% pin ra cửa hàng thì các kêu bình thường và k hỗ trợ mấy mới mà vậy thì",3,ratings\iphone-15-plus.csv
 iphone-15-plus,Rất tốt. Nhẹ. Rất mượt,5,ratings\iphone-15-plus.csv
-iphone-15-plus,,5,ratings\iphone-15-plus.csv
-iphone-15-plus,,5,ratings\iphone-15-plus.csv
-iphone-15-plus,,4,ratings\iphone-15-plus.csv
-iphone-15-plus,,5,ratings\iphone-15-plus.csv
-iphone-15-plus,,1,ratings\iphone-15-plus.csv
-iphone-15-plus,,5,ratings\iphone-15-plus.csv
 iphone-15-pro-max,Mới mua dc 1 tháng sạc 25 lần mà tuột pin đã tuột 99% rồi,2,ratings\iphone-15-pro-max.csv
 iphone-15-pro-max,"Đã mua iphone 15pro max hàng đã qua sử dụng tại Thế Giới Di Động, tuy nhiên sản phẩm không phải mã VN/A mà là mã PA/A Indonesia .Quá thất vọng vì nhân viên không nói rõ sản phẩm không phải của Việt Nam.Ngay cả trên website trong mục thông tin của sản phẩm cũng không đề cập tới sản phẩm của nước nào, tại sao không nói rõ cho người mua biết để người mua cân nhắcTôi mua hàng tại TGDĐ bởi vì tin tưởng sản phẩm Iphone này là của thị trường Việt Nam, tuy nhiên lại nhận được sản phẩm của nước ngoài, nếu muốn mua iphone của nước ngoài thì có thể lựa chọn rất nhiều hệ thống của các nhà bán lẻ khác chứ đâu cần mua của TGDĐBản thân tôi đã mua khá nhiều hàng cũ của TGDĐ, ĐMX, tuy nhiên lần này tôi thực sự thất vọng, và có lẽ sẽ cân nhắc thay đổi nơi mua hàng.Tạm biệt nơi đã từng đặt niềm tin",1,ratings\iphone-15-pro-max.csv
 iphone-15-pro-max,Mình mua điện thoại 26 tháng 11 năm 2024 sử dụng tới ngày 11 tháng 2 năm 2025 thì bị sụp nguồn. Bây giờ phải gửi đi bảo hành chờ đợi mất bao nhiêu thời gian và dữ liệu. Đúng ra những lỗi lặt vặt thì nên gửi đi bảo hành chứ lỗi sập nguồn là phải đổi ngay cho khách một điện thoại khác. Bỏ ra 30 triệu mua điện thoại mà trải nghiệm dở tệ.,1,ratings\iphone-15-pro-max.csv
@@ -695,10 +688,6 @@ iphone-15,"máy mình mua đc 19 ngày tại cửa hàng, giờ mình muốn tha
 iphone-15,"Pin trâu, mượt, camera nét, ngoại hình cute. Rất okXứng với tầm giá",5,ratings\iphone-15.csv
 iphone-15,Máy đẹp dùng rất thích,5,ratings\iphone-15.csv
 iphone-15,"Máy màu xịn xinh dã man10 cho bạn giao hàng nha Vui vẽ nhiệt tình , giao hàng xa như mà rất nhanh",5,ratings\iphone-15.csv
-iphone-15,,5,ratings\iphone-15.csv
-iphone-15,,5,ratings\iphone-15.csv
-iphone-15,,4,ratings\iphone-15.csv
-iphone-15,,5,ratings\iphone-15.csv
 iphone-16-pro-max,Mua sp không dc cộnh điểm tích luỹ ha shop,3,ratings\iphone-16-pro-max.csv
 iphone-16-pro-max,Từ 14prm chuyển qua khác biệt rõ rệt,5,ratings\iphone-16-pro-max.csv
 iphone-16-pro-max,Tôi mua io16promax 256gb giá 32971k dùng dc 3 hôm phát hiện mắt camera sau có vệt ố phía trong lên chỗ thê giới di động trương định bảo ko xử lý đổi 11 mặc dù khi mua bảo 11 nếu có lỗi về máy và tôi mua thêm gói bảo hành 650k thêm cảm thấy hối hận khi quyết định xuống tiền mua máy o đây Tôi gọi điện lên tổng đài thì bảo gui máy về hãng bảo hành 7/15 ngày ma tôi hỏi tôi lấy máy gì dùng con chưa biết là máy gui đi thì sẽ bị mở ra không ae nên cân nhắc vê máy khi mua giá trị cao trước giờ toàn mua o thế gưới di động nhưng lần này tôi hối hận khi nào ip17 ra có điều kiện tôi sẽ mua o chỗ khác k bao giơ mua o đây nữa chế độ đổi mới khi tư vấn thì ok lọt tai nhưng khi xảy ra sự cố phát hiện dc lỗi thì bị từ chối vẽ ra bảo do người mua ko kiêm tra kĩ vãi lol,1,ratings\iphone-16-pro-max.csv
@@ -878,11 +867,6 @@ masstel-izi-t6,Tốt,5,ratings\masstel-izi-t6.csv
 masstel-izi-t6,Mới dùng mấy ngày đã liệt nút bấm trong khi rất ít dùng.,3,ratings\masstel-izi-t6.csv
 masstel-izi-t6,Máy êm. Loa lớn. Chữ lớn. Pin lâu.,5,ratings\masstel-izi-t6.csv
 masstel-izi-t6,Pin trâu tùy theo cách sử dụng cửa mọi người .Âm lương ok Máy này chuyên cho người lớn tuổi và những người chỉ yêu câu gọi và nghe thì quá ok trong tầm giá này .Về chất lượng sản phẩm phải chờ thời gian trả lời .,5,ratings\masstel-izi-t6.csv
-masstel-izi-t6,,5,ratings\masstel-izi-t6.csv
-masstel-izi-t6,,5,ratings\masstel-izi-t6.csv
-masstel-izi-t6,,5,ratings\masstel-izi-t6.csv
-masstel-izi-t6,,5,ratings\masstel-izi-t6.csv
-masstel-izi-t6,,4,ratings\masstel-izi-t6.csv
 mobell-f209,"Loa thoại nghe xíu xíu không nghe nổi nếu bật rảnh tay thì nghe tạm được nói chung khó sử dụng cho người già, trót mua ngại đổi nên dùng tạm.",1,ratings\mobell-f209.csv
 mobell-f209,Đã được hỗ trợ đổi máy do lỗi loa thoại và loa ngoài. Nhận máy mới loa ngoài vẫn không nghe được,3,ratings\mobell-f209.csv
 mobell-f209,"Rất tệ, nhân viên thiếu chuyên nghiệpTổng đài trả lời toàn lý thuyếtSử dụng máy quá tệKHÔNG NÊN MUA",1,ratings\mobell-f209.csv
@@ -922,7 +906,6 @@ mobell-f209,Ko hài lòng,1,ratings\mobell-f209.csv
 mobell-f209,Cách phục vụ nhiệt tình sản phẩm chất lượng,5,ratings\mobell-f209.csv
 mobell-f209,"Máy nghe gọi tốt , loa rõ , nói chung tầm giá rẻ mua dùng được với người già",4,ratings\mobell-f209.csv
 mobell-f209,Ngon,5,ratings\mobell-f209.csv
-mobell-f209,,5,ratings\mobell-f209.csv
 mobell-f309,Shop có bán pin không ạ,5,ratings\mobell-f309.csv
 mobell-f309,"Đặt hàng online và chờ hơn 4 ngày để nhận được hàng, nhưng điện thoại không lên nguồn, không nhận tín hiệu sạc pin. Mới đặt về nhưng không thể sử dụng. Không biết bên bán hàng có kiểm tra tình trạng hoạt động của máy trước khi giao tới khách hàng hay chưa. Một trải nghiệm quá tệ.",1,ratings\mobell-f309.csv
 mobell-f309,"Máy âm to, chữ lớn, thời lượng chờ của pin dài. Điểm dở là máy chỉ có 2 bản nhạc gần giống nhau nên khó phân cho 2 sim và chuông báo thức. Còn nữa, tin nhắn đến bị máy cắt khúc ra thành nhiều tin nhắn nhỏ nên việc xem tin nhắn khó khăn. Một lỗi nhỏ là máy được hẹn giờ tự mở máy sau khi tắt nhưng máy không thực hiện.",3,ratings\mobell-f309.csv
@@ -930,7 +913,6 @@ mobell-f309,"Dùng mượt , máy chữ to rất thích hợp cho người cao t
 mobell-f309,"Điện thoại mới mua 3 ngày. Sạc pin lần đầu tiên, máy không đầy pin. Lúc mua hàng nhân viên nói không rõ ràng giống lừa khách hàng. Nói là đổi trong tháng đầu. Giờ điện thoại mới mua 3 ngày hỏng muốn đổi thì lại nói gửi hãng kiểm tra hỏng mới đổi, hư phần mềm sẽ bảo hành không đổi. Mà gửi trong vòng 15 ngày. Ủa, người ta cần dùng mới mua. Rồi gửi máy hết nửa tháng lấy gì người ta sài. Quá tệ cho cửa hàng lớn",1,ratings\mobell-f309.csv
 mobell-f309,"Loa to rõ, pin sài mấy ngày mới hết. Rất hài lòng",5,ratings\mobell-f309.csv
 mobell-f309,Có 1 cái hơi tiếc là loa trong không được lớn tại vì dành cho người lớn tuổi là mẹ mình còn mọi thứ còn lại điều ổn nói chung với mức giá không đòi hỏi gì nhiều,5,ratings\mobell-f309.csv
-mobell-f309,S,5,ratings\mobell-f309.csv
 mobell-f309,Tuyệt,5,ratings\mobell-f309.csv
 mobell-f309,"mình mua về cho người già dùng, dùng ổn ạ",5,ratings\mobell-f309.csv
 mobell-f309,"Pin tốt, Loa to, màn hình ngang to nên dễ nhìn.",5,ratings\mobell-f309.csv
@@ -968,21 +950,6 @@ mobell-f309,Mua nhiều lần ở điện máy xanh vạn mý rùi nhân viên r
 mobell-f309,Tốt. Hài lòng,5,ratings\mobell-f309.csv
 mobell-f309,"Nv tư vấn rất nhiệt tình,sp dùng ok còn độ bền thì chờ thời gian mới nói dc",4,ratings\mobell-f309.csv
 mobell-f309,Hài lòng,5,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,4,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,4,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,4,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,3,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
-mobell-f309,,5,ratings\mobell-f309.csv
 mobell-m239,pin nhanh hỏng kinh khủng,1,ratings\mobell-m239.csv
 mobell-m239,Tốt,5,ratings\mobell-m239.csv
 mobell-m239,điện thoại nói hỗ trợ 4g nhưng khi về lắp sim 4g thì lại báo đổi đt lên 4g là sao nhỉ.,2,ratings\mobell-m239.csv
@@ -1124,13 +1091,6 @@ mobell-m331,Rất tốt,5,ratings\mobell-m331.csv
 mobell-m331,Nhanh hết pin,3,ratings\mobell-m331.csv
 mobell-m331,Tốt,5,ratings\mobell-m331.csv
 mobell-m331,Tốt giá như có rung khi kết nối gọi thì ok hơn nhiều,4,ratings\mobell-m331.csv
-mobell-m331,,4,ratings\mobell-m331.csv
-mobell-m331,,5,ratings\mobell-m331.csv
-mobell-m331,,5,ratings\mobell-m331.csv
-mobell-m331,,3,ratings\mobell-m331.csv
-mobell-m331,,1,ratings\mobell-m331.csv
-mobell-m331,,5,ratings\mobell-m331.csv
-mobell-m331,,5,ratings\mobell-m331.csv
 mobell-m539,"Sao sim mình 4G nhưng xài điện thoại này báo không có sóng, xài điện thoại khác bình thường",3,ratings\mobell-m539.csv
 mobell-m539,"Sóng yếu quá, chập chờn. Loa to nhưng nghe gọi rất kém",2,ratings\mobell-m539.csv
 mobell-m539,"Pin tệ, nghe gọi ít chỉ khoảng 1 ngày là hết pin",2,ratings\mobell-m539.csv
@@ -1181,7 +1141,6 @@ mobell-m539,Sp dùng ok,5,ratings\mobell-m539.csv
 mobell-m539,Rất ok,5,ratings\mobell-m539.csv
 mobell-m539,Hao pin sạc xong để không qua hôm sau hết pin,2,ratings\mobell-m539.csv
 mobell-m539,Tuyệt vời,5,ratings\mobell-m539.csv
-mobell-m539,👌,5,ratings\mobell-m539.csv
 mobell-m539,"Mua máy đổi trả bị lỗi sim, để hai sim là máy tự động khởi động lại. Chị để được một sim.",2,ratings\mobell-m539.csv
 mobell-m539,"Mua lần đầu máy rất ngốn pin dù ko nghe gọi ko vào mạng , ko dùng nổi 24h , sau khi đổi máy mới chất lượng tốt hẳn , thời gian chờ đã quá 4 ngày chưa hết pin",4,ratings\mobell-m539.csv
 mobell-m539,Sản phẩm tốt,4,ratings\mobell-m539.csv
@@ -1196,21 +1155,6 @@ mobell-m539,Sp chữ to rõ pin khá trâu,4,ratings\mobell-m539.csv
 mobell-m539,"Bàn phím to, chữ trên màn hình rõ ràng, Pin nghe nhạc lâu 👍",5,ratings\mobell-m539.csv
 mobell-m539,"Đúng là điện thoại tàu, phím bấm thì lỏng lẻo, loa thì quá ồn ào gọi nói chuyện thì người khác nghe thấy hết, chỉ xách dép cho nokia đời trước thôi.",1,ratings\mobell-m539.csv
 mobell-m539,xxxx887398,4,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,4,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,3,ratings\mobell-m539.csv
-mobell-m539,,4,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,5,ratings\mobell-m539.csv
-mobell-m539,,3,ratings\mobell-m539.csv
 nokia-105-4g-pro,Đt dùng chưa được 3 tháng cục sạc đã hư,3,ratings\nokia-105-4g-pro.csv
 nokia-105-4g-pro,Mình vừa mua điện thoại vào 25/11/2024 nhưng hiện tại muốn đổi qua máy HDM 105 có được không,4,ratings\nokia-105-4g-pro.csv
 nokia-105-4g-pro,"Mua được 1 tuần xì sạc pin không vô, tự nhiên tắt nguồn, hoặc có sóng nhưng người khác gọi đến thuê bao. Mang ra đổi cho cái mới về y chang như vậy. Chán ko thèm đổi nữa. Nói cũng rất tệ, ko nên mua ạ. giống đồ chơi hơn là đt",2,ratings\nokia-105-4g-pro.csv
@@ -1274,14 +1218,6 @@ nokia-110-4g-pro,"chất lượng thì k biết như nào nhưng máy êm, đèn
 nokia-110-4g-pro,"Điện thoại tốt, pin trâu, mua cho ng lớn tuổi dùng rất ok.",5,ratings\nokia-110-4g-pro.csv
 nokia-110-4g-pro,"Chữ hơi nhỏ, người lớn tuổi xài sẽ khó nhìn chữ",3,ratings\nokia-110-4g-pro.csv
 nokia-110-4g-pro,"Máy nhỏ,gọn, đẹp",5,ratings\nokia-110-4g-pro.csv
-nokia-110-4g-pro,,4,ratings\nokia-110-4g-pro.csv
-nokia-110-4g-pro,,5,ratings\nokia-110-4g-pro.csv
-nokia-110-4g-pro,,5,ratings\nokia-110-4g-pro.csv
-nokia-110-4g-pro,,5,ratings\nokia-110-4g-pro.csv
-nokia-110-4g-pro,,4,ratings\nokia-110-4g-pro.csv
-nokia-110-4g-pro,,5,ratings\nokia-110-4g-pro.csv
-nokia-110-4g-pro,,5,ratings\nokia-110-4g-pro.csv
-nokia-110-4g-pro,,4,ratings\nokia-110-4g-pro.csv
 nokia-220-4g,"Rất mau hết pin, mới mua về xài đc 1 2 ngày mới biết pin dỏm cực kì, mua vì dung lượng pin 1450, mà mới 1 ngày đã hết cho dù ko bấm nhiều chỉ lâu lâu nghe gọi thôi mà tuột pin kinh khủng, trong khoảng tgian 30 ngày muốn đổi thì lỗ sặc máu, nên phải đành chấp nhận xài đại, tức , dt dỏm như cái gì thua mấy cái đt TQ",1,ratings\nokia-220-4g.csv
 nokia-220-4g,Với số tiền bỏ ra mua thì ko sứng một tí nào,1,ratings\nokia-220-4g.csv
 nokia-220-4g,Mua 1 cái bị phải đổi tới 2 lần một sao cho nhà san xuất 5 sao cho cửa hàng,1,ratings\nokia-220-4g.csv
@@ -1343,7 +1279,6 @@ oppo-a3-8gb-128gb,Tuột pin nhanh. Rồi mới mua 8gb 128 mấy ngày Tuột g
 oppo-a3-8gb-128gb,Mới mua hôm mùng 4 giá 5290 nay xuống 4990 Giá cả vớ vẩn thật,2,ratings\oppo-a3-8gb-128gb.csv
 oppo-a3-8gb-128gb,Mới mua được 2 ngày máy tụt pin nhanh 2 phút sút 1%,3,ratings\oppo-a3-8gb-128gb.csv
 oppo-a3-8gb-128gb,"Máy mượt, pin trâu, chụp đẹp. Loa nghe to rõ hay",5,ratings\oppo-a3-8gb-128gb.csv
-oppo-a3-8gb-128gb,,5,ratings\oppo-a3-8gb-128gb.csv
 oppo-a38-6gb,Đã dùng được 5 tháng . Sp giá tầm trung . Màu đẹp . Pin sạc nhanh lại dùng được lâu,5,ratings\oppo-a38-6gb.csv
 oppo-a38-6gb,Lần đầu là lần cuối xài như qq cho chưa lấy huống hồ mua.Đang xài quảng cáo nhào vô. Để trong túi cũng tự quảng cáo đúng đồ Tào,2,ratings\oppo-a38-6gb.csv
 oppo-a38-6gb,Mượt nói chung ok với tâm giá,5,ratings\oppo-a38-6gb.csv
@@ -1365,11 +1300,6 @@ oppo-a38-6gb,Rất tốt,5,ratings\oppo-a38-6gb.csv
 oppo-a38-6gb,Sản phẩm tốt phù hợp giá thành,4,ratings\oppo-a38-6gb.csv
 oppo-a38-6gb,Rất tốt. Phục vụ chu đáo,5,ratings\oppo-a38-6gb.csv
 oppo-a38-6gb,"Sản phẩm mình bỏ tiền ra mua mới mà lại không được khui seal, nhân viên bảo đây là qui định công ty bắt buộc phải khui seal toàn bộ hết rồi mới bán cho khách.Cảm thấy không hài lòng, hụt hẫng.",4,ratings\oppo-a38-6gb.csv
-oppo-a38-6gb,,5,ratings\oppo-a38-6gb.csv
-oppo-a38-6gb,,4,ratings\oppo-a38-6gb.csv
-oppo-a38-6gb,,5,ratings\oppo-a38-6gb.csv
-oppo-a38-6gb,,4,ratings\oppo-a38-6gb.csv
-oppo-a38-6gb,,5,ratings\oppo-a38-6gb.csv
 oppo-a3x-4gb-64gb,"không biết là máy mình có lỗi không chứ để thông số kĩ thuật là 5100mah mà mình dùng 85% pin từ tầm 4 tiếng là cạn r ạ Dùng vẫn oke vừa tầm giá , mình không hay chơi game nên không đánh giá được máy này khi chơi game có oke không . Nhưng khi dụng bth thì vẫn mượt",4,ratings\oppo-a3x-4gb-64gb.csv
 oppo-a3x-4gb-64gb,"Tôi hối hận vì không tìm hiểu kỹ cái máy này.Quá yếu load YouTube tận 5phút mới phát video.Mạng wifi đầy sóng. Máy mua để nghe gọi xem Youtube, zalo. Không dùng Facebook mà nó yếu rất yếu.Thêm cáu không ghi âm tất cả cuộc gọi, bật ghi âm thì qua hôm sau tự tắt, phải vô bật lại.Máy này rất là tệ.",1,ratings\oppo-a3x-4gb-64gb.csv
 oppo-a3x-4gb-64gb,Máy tụt bin nhanh sạc 94% màn hình sáng 4h15 phúp đã tụt còn 33% hình như máy bây giờ bin đều kém vậy bữa trước mua xiaomi 13 được 5 hôm đổi máy oppo cũng thế trước mình dùng xiaomi not 9s rất trâu,1,ratings\oppo-a3x-4gb-64gb.csv
@@ -1395,7 +1325,6 @@ oppo-a58-4g,"Nói thật chứ các bạn dùng ntn, chứ tôi thấy khá tệ
 oppo-a58-4g,Chương trình phát dưới nền bị mất phải làm sao để xài tiếp.,4,ratings\oppo-a58-4g.csv
 oppo-a58-4g,Sai lầm khi mua Oppo.xài mới hơn tháng bị nám màn hình,1,ratings\oppo-a58-4g.csv
 oppo-a58-4g,Điện vậy mà ko có chức năng quét NFC thật là ngu ngốc. Hôi hận khi mua,1,ratings\oppo-a58-4g.csv
-oppo-a58-4g,K,5,ratings\oppo-a58-4g.csv
 oppo-a58-4g,Rất tốt ạ,5,ratings\oppo-a58-4g.csv
 oppo-a58-4g,Thấy dùng ổn Chủ yếu nghe gọi nên ko đánh giá chi tiết,4,ratings\oppo-a58-4g.csv
 oppo-a58-4g,Mua về dùng chưa được tháng mà pin tụt kinh khủng khiếp. Sạc 33w mà sạc cũng chả nhanh lắm. Sạc xong máy nóng bỏng tay luôn. Dùng liên tục tầm hơn 1 tiếng mà vào fb lướt là giật đùng đùng. Đã ra đổi lại máy khác. Máy mới pin đỡ tụt hơn cái kia nhưng cũng không ngon nghẻ như các dòng android đã dùng trước đây. Gọi video tầm 30p là nóng máy luôn. Lúc đầu định tìm mua đt của Realme hoặc Samsung mà vào gặp bạn nhân viên hãng của Oppo cứ tư vấn vài câu lại chê mấy hãng kia thế nọ thế kia. Cuối cùng tôi mua hàng hãng Oppo này theo tư vấn của nhân viên hãng mà thất vọng quá thể,2,ratings\oppo-a58-4g.csv
@@ -1417,7 +1346,6 @@ oppo-a58-4g,Pin mau hết sài bình thường lúc sài lúc không mà 12tiế
 oppo-a58-4g,Máy mượt màng hình to loa khỏe pin cũng ok lắm wifi 4g tất cả đều ok hết Nhân viên tư vấn nhiệt tình,5,ratings\oppo-a58-4g.csv
 oppo-a58-4g,Cho minhhoi tắt nguồn điện thoại ở đâu vậy Máy màu không thật cho lắm,3,ratings\oppo-a58-4g.csv
 oppo-a58-4g,đt A58 màu màng hình rất tệ. Màu đã xấu với gây ra đau mắt nữa.rất hối tiếc khi mua đt này với giá 5.490,1,ratings\oppo-a58-4g.csv
-oppo-a58-4g,.,5,ratings\oppo-a58-4g.csv
 oppo-a58-4g,"Bắt wifi chậm. Cảm ứng màn hình tệ, double tap để ság màn hình mà phải làm 3 4 lần mới sáng. Bàn phím nt bị lag, đag bấm chữ cứ bị đơ hoặc mất khung bàn phím luôn. Ko biết có nên ra tiệm để đổi máy khác ko, vì nhà mình xa",3,ratings\oppo-a58-4g.csv
 oppo-a58-4g,Rất OK,5,ratings\oppo-a58-4g.csv
 oppo-a58-4g,Moi dùng được 1 ngày mà pin màu hết quá.wf thì bắt mạng rất kém.co thể đổi qua dòng máy khác được không ạ,2,ratings\oppo-a58-4g.csv
@@ -1574,8 +1502,6 @@ oppo-reno12-f-5g-12gb-256gb,Mua đc 2 ngày thấy k hài lòng.cam mờ tối c
 oppo-reno12-f-5g-12gb-256gb,Rất hài lòng về cách của nhân viên phục vụ và máy đẹp xài rất là ok,5,ratings\oppo-reno12-f-5g-12gb-256gb.csv
 oppo-reno12-f-5g-12gb-256gb,OK trong tầm giá không chơi game nên thấy ok cấu hình thì không cao lắm bật 120 Hz nên mới nhanh,5,ratings\oppo-reno12-f-5g-12gb-256gb.csv
 oppo-reno12-f-5g-12gb-256gb,Cam mờ màn hiển thị không đẹp vân tay thì chậm truy xuất không nhanh nhạc thì tệ thua xa cả reno 7z 5g,1,ratings\oppo-reno12-f-5g-12gb-256gb.csv
-oppo-reno12-f-5g-12gb-256gb,,5,ratings\oppo-reno12-f-5g-12gb-256gb.csv
-oppo-reno12-f-5g-12gb-256gb,,5,ratings\oppo-reno12-f-5g-12gb-256gb.csv
 oppo-reno13-f-5g,Mh mua tối ngày hôm qua.dt k xài vẩn nóng bừng dù để phòng máy lạnh.,3,ratings\oppo-reno13-f-5g.csv
 oppo-reno13-f-5g,camera chụp hình tệ quá đang muốn đổi gấp hic thất vọng,1,ratings\oppo-reno13-f-5g.csv
 oppo-reno13-f-5g,Lúc mua thì oke . Lúc mk ko thích bán lại. Thì chi nhánh. Ko có tiền. Trog khi cả 1 tập đoàn lớn .,1,ratings\oppo-reno13-f-5g.csv
@@ -1598,8 +1524,6 @@ oppo-reno13-f-5g,"Không bứt phá nhiều ,mà giá cao. Phù hợp cho nhu c�
 oppo-reno13-f-5g,Cho sản phẩm cửa hàng 5sao nhé....,5,ratings\oppo-reno13-f-5g.csv
 oppo-reno13-f-5g,Ôn,4,ratings\oppo-reno13-f-5g.csv
 oppo-reno13-f-5g,Camera trước gọi video k đc rõ.. chơi game máy nóng kinh khủng,3,ratings\oppo-reno13-f-5g.csv
-oppo-reno13-f-5g,,2,ratings\oppo-reno13-f-5g.csv
-oppo-reno13-f-5g,,5,ratings\oppo-reno13-f-5g.csv
 realme-note-50-64gb,Máy mua về bị chậm quá nhiều khi vào tiktok mà đợi hoài ko vào được luôn.mà bắt wifi kém,2,ratings\realme-note-50-64gb.csv
 realme-note-50-64gb,thông báo tất cả app điều trễ mua về muốn đập,1,ratings\realme-note-50-64gb.csv
 realme-note-50-64gb,Mk mua được mấy tháng hỏi xem có đổi lên máy 4GB được không,3,ratings\realme-note-50-64gb.csv
@@ -1622,16 +1546,6 @@ realme-note-50-64gb,Sử dụng rất tốt và pin được lâu,5,ratings\real
 realme-note-50-64gb,Tốt,5,ratings\realme-note-50-64gb.csv
 realme-note-50-64gb,Dùng tốt. Lướt FB xem phim OK. Ai mà muốn mua tặng ng thân thì nên mua,5,ratings\realme-note-50-64gb.csv
 realme-note-50-64gb,Tốt,5,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,5,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,5,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,5,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,4,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,4,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,3,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,3,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,5,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,5,ratings\realme-note-50-64gb.csv
-realme-note-50-64gb,,3,ratings\realme-note-50-64gb.csv
 samsung-galaxy-a05s-6gb,Máy mới mua về không tháo khe sim ra được,2,ratings\samsung-galaxy-a05s-6gb.csv
 samsung-galaxy-a05s-6gb,vẫn thích màn hình giọt nước,5,ratings\samsung-galaxy-a05s-6gb.csv
 samsung-galaxy-a05s-6gb,"Điện thoại đẹp, màn hình lớn, giá hợp lý, mới mua nên thấy cũng ok, về sau thì chưa biết, pin trâu, hiện tại thì tất cả đều ổn, nên mua, nên sử dụng, mua them cái ốp lưng của hãng rất ok, mua thêm cái kính cường lực của hãng luôn cũng rất tốt, nhân viên đmx, tgdđ khóm 1, thị trấn u minh, tỉnh cà mau rất nhiệt tình và thân thiện",5,ratings\samsung-galaxy-a05s-6gb.csv
@@ -2115,8 +2029,6 @@ samsung-galaxy-z-fold6,Sau khi Ninh Dương giới thiệu thì mình quyết t�
 samsung-galaxy-z-fold6,"Mình mê dòng này và lần đầu trải nghiệm, thật sự thấy mình tự tin và chuyên nghiệp hơn hẳn",5,ratings\samsung-galaxy-z-fold6.csv
 samsung-galaxy-z-fold6,"Z Fold6 mỏng và nhẹ thật, sử dụng hài lòng, nhân viên TGDD nhiệt tình",5,ratings\samsung-galaxy-z-fold6.csv
 samsung-galaxy-z-fold6,Very good,5,ratings\samsung-galaxy-z-fold6.csv
-samsung-galaxy-z-fold6,,5,ratings\samsung-galaxy-z-fold6.csv
-samsung-galaxy-z-fold6,,5,ratings\samsung-galaxy-z-fold6.csv
 tecno-spark-go-1,"Máy đc áp mà giảm còn 1tr1 phải nói quá OK, pin trâu màn OK loa to còn có cả chống nước nữa tuyệt vời",5,ratings\tecno-spark-go-1.csv
 tecno-spark-go-1,"Máy quá ngon , mình dùng check mail , lướt web , xem tiktok giải trí và vài con game nhẹ như boom beach và nông trại hayday . Nói chung trong tầm giá này là ngon nhất rồi , thiết kế thì cũng đẹp hiện đại , giá 1tr8 ngon , hợp lí . Mình đã xem rất nhiều review và mất thời gian để tìm 1 con máy giá rẻ , phù hợp với nhu cầu trên , b nào nhu cầu dùng máy như mình thì mua luôn không phải lăn tăn , pin cũng rất trâu nữa.",5,ratings\tecno-spark-go-1.csv
 tecno-spark-go-1,"Điện thoại rất tốt so với giá, nhà sản xuất đã làm tôi ngạc nhiên vì cho máy một miếng dán màn hình đã được dán sẵn rất đẹp, xài cơ bản rất mượt, bắt sóng mạnh, âm thanh to nhờ loa kép, có vân tay cạnh viền luôn quá xịn, ít hao pin, chơi game 5v5 đồ họa thấp mượt mà hơn cả mong đợi dù lâu lâu có hơi khựng xíu, tôi thực sự rất hài lòng với máy.",5,ratings\tecno-spark-go-1.csv
@@ -2140,8 +2052,6 @@ tecno-spark-go-1,Mình mới mua lúc chiều ở tgdd mỏ cày nam Bến Tre. 
 tecno-spark-go-1,Ngon bổ rẻ.,5,ratings\tecno-spark-go-1.csv
 tecno-spark-go-1,Ok ngon trong tầm giá,5,ratings\tecno-spark-go-1.csv
 tecno-spark-go-1,"Mua go 2024 xài OK pin trâu,giờ mua thêm go 1.",5,ratings\tecno-spark-go-1.csv
-tecno-spark-go-1,,5,ratings\tecno-spark-go-1.csv
-tecno-spark-go-1,,5,ratings\tecno-spark-go-1.csv
 vivo-y28,"Đt vivo y28 mình mới mua mà máy chạy rất chậm nha , vào Facebook, YouTube, tiktok máy chạy rất chậm cứ xoay xoay hoài với lại rất là sài mau hết pin , thua máy vivo củ của mình nha",3,ratings\vivo-y28.csv
 vivo-y28,Pin tuột không phanh ko mở gì vẫn tuột pin xem Youtube 2p tuột 1% còn thua đt vivo y100 mua từ 5 năm trước sạc,2,ratings\vivo-y28.csv
 vivo-y28,"Mình xin hỏi ,lúc xem video tiếng nó phát cả loa ngoài và loa thoại, muốn nge loa ngoài thôi thì tắt loa thoại chỗ nào ah. Tk",3,ratings\vivo-y28.csv
@@ -2166,9 +2076,6 @@ vivo-y28,Mình thích con Vivo Y28 màu cam này. pin 6000 dùng cũng ok lắm.
 vivo-y28,E có đc tham gia quay thưởng ko vậy,4,ratings\vivo-y28.csv
 vivo-y28,"Mẹ mình mua máy màu xanh rất đẹp , pin siêu trâu , dùng rất mượt , loa to nữa",5,ratings\vivo-y28.csv
 vivo-y28,"Máy cầm đầm tay , pin trâu , mượt , màn sáng",5,ratings\vivo-y28.csv
-vivo-y28,,5,ratings\vivo-y28.csv
-vivo-y28,,5,ratings\vivo-y28.csv
-vivo-y28,,5,ratings\vivo-y28.csv
 xiaomi-14t-5g,Dùng thi thoảng màn hình hay giật giật.kết nối tai nghe blut thì tự nhiên nhận cuộc gọi phát ra loa ngoài luôn.,2,ratings\xiaomi-14t-5g.csv
 xiaomi-14t-5g,"Máy quá tuột pin, dán miếng bảo vệ màn hình thì dán xéo đè lên camera trước, nhấn đánh giá thì ko thấy hỗ trợ",1,ratings\xiaomi-14t-5g.csv
 xiaomi-14t-5g,"Mua đc 2 tuần muốn đổi dòng cao cấp hơn mà mất 20%, còn hơn vay nặng lãi, mọi người cân nhắc nha, pin tuột hơn tuột quần",1,ratings\xiaomi-14t-5g.csv
@@ -2285,13 +2192,6 @@ xiaomi-redmi-a3,tốt,4,ratings\xiaomi-redmi-a3.csv
 xiaomi-redmi-a3,Phù hợp cho phụ huynh lớn tuổi dùng,3,ratings\xiaomi-redmi-a3.csv
 xiaomi-redmi-a3,Dùng được,5,ratings\xiaomi-redmi-a3.csv
 xiaomi-redmi-a3,Với mức giá như vậy đt như vậy là tốt rồi tôi cho 5 sao tuy dùng lâu có lúc bị lát,5,ratings\xiaomi-redmi-a3.csv
-xiaomi-redmi-a3,,5,ratings\xiaomi-redmi-a3.csv
-xiaomi-redmi-a3,,5,ratings\xiaomi-redmi-a3.csv
-xiaomi-redmi-a3,,5,ratings\xiaomi-redmi-a3.csv
-xiaomi-redmi-a3,,4,ratings\xiaomi-redmi-a3.csv
-xiaomi-redmi-a3,,5,ratings\xiaomi-redmi-a3.csv
-xiaomi-redmi-a3,,5,ratings\xiaomi-redmi-a3.csv
-xiaomi-redmi-a3,,3,ratings\xiaomi-redmi-a3.csv
 xiaomi-redmi-note-13,"cảm ứng không nhạy, thường xuyên bị phải khởi động lại mới hết.",1,ratings\xiaomi-redmi-note-13.csv
 xiaomi-redmi-note-13,Tự tay đập hộp ngỡ như nằm mơ,5,ratings\xiaomi-redmi-note-13.csv
 xiaomi-redmi-note-13,"Nói chung là cũng k ổn lắm , bắt wifi tệ , tự nhiên bật màn hình lên lướt k đc xong tắt bật lên lại thì lướt đc , hazzz",2,ratings\xiaomi-redmi-note-13.csv
