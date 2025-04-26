@@ -7,8 +7,7 @@ from PyQt5.QtWidgets import (
     QWidget,
     QVBoxLayout,
     QLabel,
-    QRadioButton,
-    QButtonGroup,
+    QCheckBox,
     QPushButton,
     QHBoxLayout,
     QLineEdit,
@@ -45,18 +44,12 @@ class TextLabelingTool(QMainWindow):
         self.rating_label = QLabel("Rating: ", self)
         self.layout.addWidget(self.rating_label)
 
-        self.radio_group = QButtonGroup(self)
-        self.positive_radio = QRadioButton("positive")
-        self.negative_radio = QRadioButton("negative")
-        self.neutral_radio = QRadioButton("neutral")
+        # Checkbox for positive and negative labels
+        self.positive_checkbox = QCheckBox("Positive", self)
+        self.negative_checkbox = QCheckBox("Negative", self)
 
-        self.radio_group.addButton(self.positive_radio)
-        self.radio_group.addButton(self.negative_radio)
-        self.radio_group.addButton(self.neutral_radio)
-
-        self.layout.addWidget(self.positive_radio)
-        self.layout.addWidget(self.negative_radio)
-        self.layout.addWidget(self.neutral_radio)
+        self.layout.addWidget(self.positive_checkbox)
+        self.layout.addWidget(self.negative_checkbox)
 
         self.button_layout = QHBoxLayout()
         self.previous_button = QPushButton("Previous (←)", self)
@@ -111,26 +104,14 @@ class TextLabelingTool(QMainWindow):
         if 0 <= self.current_index < len(self.df):
             row = self.df.iloc[self.current_index]
             self.comment_label.setText(f"Comment:\n{row['comment']}")
-            self.current_label.setText(f"Current Label: {row['label']}")
             self.rating_label.setText(f"Rating: {row['rating']}")
 
             # Hiển thị số hàng hiện tại
             self.index_label.setText(f"Row: {self.current_index + 1}/{len(self.df)}")
 
-            current_label = row["label"]
-            if current_label == "positive":
-                self.positive_radio.setChecked(True)
-            elif current_label == "negative":
-                self.negative_radio.setChecked(True)
-            elif current_label == "neutral":
-                self.neutral_radio.setChecked(True)
-            else:
-                self.radio_group.setExclusive(False)
-                self.positive_radio.setChecked(False)
-                self.negative_radio.setChecked(False)
-                self.neutral_radio.setChecked(False)
-                self.radio_group.setExclusive(True)
-
+            self.positive_checkbox.setChecked(False)
+            self.negative_checkbox.setChecked(False)
+            
             self.previous_button.setEnabled(self.current_index > 0)
         else:
             self.comment_label.setText("Labeling completed!")
@@ -142,27 +123,18 @@ class TextLabelingTool(QMainWindow):
 
     def save_label(self):
         if self.current_index < len(self.df):
-            new_label = None
-            if self.positive_radio.isChecked():
-                new_label = "positive"
-            elif self.negative_radio.isChecked():
-                new_label = "negative"
-            elif self.neutral_radio.isChecked():
-                new_label = "neutral"
+            # Check values of checkboxes
+            positive_label = 1 if self.positive_checkbox.isChecked() else 0
+            negative_label = 1 if self.negative_checkbox.isChecked() else 0
 
-            if new_label:
-                new_row = self.df.iloc[self.current_index].copy()
-                new_row["label"] = new_label
+            new_row = self.df.iloc[self.current_index].copy()
+            new_row["positive"] = positive_label
+            new_row["negative"] = negative_label
 
-                file_exists = os.path.isfile(self.save_path)
-                pd.DataFrame([new_row]).to_csv(
-                    self.save_path, mode="a", header=not file_exists, index=False
-                )
+            file_exists = os.path.isfile(self.save_path)
+            pd.DataFrame([new_row]).to_csv(self.save_path, mode="a", header=not file_exists, index=False)
 
-                print(
-                    f"Saved new label at index {self.current_index}: {new_label}",
-                    flush=True,
-                )
+            print(f"Saved new label at index {self.current_index}: Positive={positive_label}, Negative={negative_label}", flush=True)
 
             self.current_index += 1
             self.update_ui()
@@ -200,6 +172,12 @@ class TextLabelingTool(QMainWindow):
             self.skip_comment()
         elif event.key() == Qt.Key_Escape:
             self.close()
+        elif event.key() == Qt.Key_1:
+            self.positive_checkbox.setChecked(not self.positive_checkbox.isChecked())
+            print("Toggled positive checkbox")
+        elif event.key() == Qt.Key_2:
+            self.negative_checkbox.setChecked(not self.negative_checkbox.isChecked())
+            print("Toggled negative checkbox")
 
     def closeEvent(self, event):
         """Tự động lưu current_index khi cửa sổ đóng"""
