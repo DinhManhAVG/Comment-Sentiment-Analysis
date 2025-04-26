@@ -2,10 +2,19 @@ import sys
 import pandas as pd
 import os
 from PyQt5.QtWidgets import (
-    QApplication, QMainWindow, QWidget, QVBoxLayout, QLabel,
-    QRadioButton, QButtonGroup, QPushButton, QHBoxLayout, QLineEdit
+    QApplication,
+    QMainWindow,
+    QWidget,
+    QVBoxLayout,
+    QLabel,
+    QRadioButton,
+    QButtonGroup,
+    QPushButton,
+    QHBoxLayout,
+    QLineEdit,
 )
 from PyQt5.QtCore import Qt
+import json
 
 
 class TextLabelingTool(QMainWindow):
@@ -32,7 +41,7 @@ class TextLabelingTool(QMainWindow):
 
         self.current_label = QLabel("Current Label: ", self)
         self.layout.addWidget(self.current_label)
-        
+
         self.rating_label = QLabel("Rating: ", self)
         self.layout.addWidget(self.rating_label)
 
@@ -75,12 +84,28 @@ class TextLabelingTool(QMainWindow):
         self.jump_input.setPlaceholderText("Enter row number")
         self.jump_button = QPushButton("Go", self)
         self.jump_button.clicked.connect(self.jump_to_index)
-        
+
         self.jump_layout.addWidget(self.jump_input)
         self.jump_layout.addWidget(self.jump_button)
         self.layout.addLayout(self.jump_layout)
 
+        # Load current index from progress file if it exists
+        self.load_progress()
         self.update_ui()
+
+    def load_progress(self):
+        progress_path = self.save_path.replace(".csv", "_progress.json")
+        if os.path.isfile(progress_path):
+            try:
+                with open(progress_path, "r") as f:
+                    data = json.load(f)
+                    if "current_index" in data and 0 <= data["current_index"] < len(
+                        self.df
+                    ):
+                        self.current_index = data["current_index"]
+                        print(f"Resumed at index {self.current_index}")
+            except Exception as e:
+                print(f"Error loading progress file: {e}")
 
     def update_ui(self):
         if 0 <= self.current_index < len(self.df):
@@ -88,7 +113,7 @@ class TextLabelingTool(QMainWindow):
             self.comment_label.setText(f"Comment:\n{row['comment']}")
             self.current_label.setText(f"Current Label: {row['label']}")
             self.rating_label.setText(f"Rating: {row['rating']}")
-            
+
             # Hiển thị số hàng hiện tại
             self.index_label.setText(f"Row: {self.current_index + 1}/{len(self.df)}")
 
@@ -134,7 +159,10 @@ class TextLabelingTool(QMainWindow):
                     self.save_path, mode="a", header=not file_exists, index=False
                 )
 
-                print(f"Saved new label at index {self.current_index}: {new_label}", flush=True)
+                print(
+                    f"Saved new label at index {self.current_index}: {new_label}",
+                    flush=True,
+                )
 
             self.current_index += 1
             self.update_ui()
@@ -173,16 +201,22 @@ class TextLabelingTool(QMainWindow):
         elif event.key() == Qt.Key_Escape:
             self.close()
 
+    def closeEvent(self, event):
+        """Tự động lưu current_index khi cửa sổ đóng"""
+        progress_path = self.save_path.replace(".csv", "_progress.json")
+        with open(progress_path, "w") as f:
+            json.dump({"current_index": self.current_index}, f)
+        print(f"Saved current index to {progress_path}")
+        super().closeEvent(event)
+
 
 if __name__ == "__main__":
-    data_path = "../data/phone_ratings.csv"
-    save_path = "../data/phone_ratings_labeled.csv"
+    unsure_labels_path = "../data/unsure-labels/phone_ratings_unsure_part1.csv"
+    output_path = "../data/result_from_labelling_tool/data_part1.csv"
 
-    original_data = pd.read_csv(data_path)
-    original_data["label"] = original_data["rating"].apply(lambda x: "positive" if x >= 4 else "negative")
-    double_check_data = original_data[(original_data["rating"] == 3) | (original_data["rating"] == 4)]
+    double_check_data = pd.read_csv(unsure_labels_path, encoding="utf-8")
 
     app = QApplication(sys.argv)
-    window = TextLabelingTool(double_check_data, save_path)
+    window = TextLabelingTool(double_check_data, output_path)
     window.show()
     sys.exit(app.exec_())

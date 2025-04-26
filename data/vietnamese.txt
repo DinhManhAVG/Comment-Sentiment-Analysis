@@ -94,7 +94,6 @@ bập_bà_bập_bõm
 bập_bõm
 bắt_đầu
 bắt_đầu_từ
-bằng
 bằng_cứ
 bằng_người
 bằng_như
@@ -247,7 +246,6 @@ chị_ấy
 chịu_chưa
 chịu_lời
 chịu_ăn
-chọn
 chọn_bên
 chọn_ra
 chốc_chốc
@@ -278,7 +276,6 @@ con_dạ
 con_nhà
 con_tính
 cu_cậu
-cuối
 cuối_cùng
 cuối_điểm
 cuốn
@@ -289,7 +286,6 @@ càng_hay
 cá_nhân
 các
 các_cậu
-cách
 cách_bức
 cách_không
 cách_nhau
@@ -475,7 +471,6 @@ gây_thêm
 gì
 gì_gì
 gì_đó
-gần
 gần_bên
 gần_hết
 gần_ngày
@@ -555,7 +550,6 @@ không_có_gì
 không_cùng
 không_cần
 không_cứ
-không_dùng
 không_gì
 không_hay
 không_khỏi
@@ -754,7 +748,6 @@ ngay_thật
 ngay_tức_khắc
 ngay_tức_thì
 ngay_từ
-nghe
 nghe_chừng
 nghe_hiểu
 nghe_không
@@ -784,7 +777,6 @@ ngoài_này
 ngoài_ra
 ngoài_xa
 ngoải
-nguồn
 ngày
 ngày_càng
 ngày_cấp
@@ -1150,7 +1142,6 @@ sốt_sột
 sớm
 sớm_ngày
 sở_dĩ
-sử_dụng
 sự
 sự_thế
 sự_việc
@@ -1488,7 +1479,6 @@ vậy_nên
 vậy_ra
 vậy_thì
 vậy_ư
-về
 về_không
 về_nước
 về_phần

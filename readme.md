@@ -3,3 +3,5 @@
 - sản phẩm này "được"?? từ "được" xử lý sao??
 - Hàm word_tokenize của underthesea không tốt, nó tách 4g thành 4 và g.
 - Từ "từ" có nên xem là stopword không?
+- Các csv trong thư mục unsure-labels: chưa chắc chắn về label nên cần xem lại bằng cách chạy tool đánh nhãn
+- File labeled_phone_rating_sure.csv: đã được đánh nhãn chắc chắn
