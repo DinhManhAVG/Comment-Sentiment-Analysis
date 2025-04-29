@@ -1,5 +1,6 @@
 {
   "ko": "không",
+  "ko.": "không",
   "k": "không",
   "j": "gì",
   "m": "mình",
@@ -461,5 +462,7 @@
   "cam": "camera",
   "sưa": "sửa",
   "tam gia": "tầm giá",
-  "sước": "xước"
+  "sước": "xước",
+  "lac": "lạc",
+  "0k": "không"
 }
