@@ -322,6 +322,8 @@
   "ctác": "công tác",
   "sg": "sài gòn",
   "ae": "anh em",
+  "a.c": "anh chị",
+  "a.e": "anh em",
   "ah": "à",
   "ạh": "ạ",
   "rì": "gì",
@@ -464,5 +466,8 @@
   "tam gia": "tầm giá",
   "sước": "xước",
   "lac": "lạc",
-  "0k": "không"
+  "0k": "không",
+  "đông y": "đồng ý",
+  "đồng y": "đồng ý",
+  "đông ý": "đồng ý"
 }

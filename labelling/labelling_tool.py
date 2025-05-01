@@ -12,15 +12,16 @@ from PyQt5.QtWidgets import (
     QHBoxLayout,
     QLineEdit,
 )
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import Qt, QEvent
 import json
 
 
 class TextLabelingTool(QMainWindow):
-    def __init__(self, df, save_path="labeled_data.csv"):
+    def __init__(self, df, save_path="labeled_data.csv", progress_path="progress.json"):
         super().__init__()
         self.df = df
         self.save_path = save_path
+        self.progress_path = progress_path
         self.current_index = 0
 
         self.setWindowTitle("Text Labeling Tool")
@@ -35,11 +36,25 @@ class TextLabelingTool(QMainWindow):
         self.comment_label.setWordWrap(True)
         self.layout.addWidget(self.comment_label)
 
+        self.comment_clean_stage1_label = QLabel("", self)
+        self.comment_clean_stage1_label.setWordWrap(True)
+        self.layout.addWidget(self.comment_clean_stage1_label)
+
+        self.comment_clean_stage2_label = QLabel("", self)
+        self.comment_clean_stage2_label.setWordWrap(True)
+        self.layout.addWidget(self.comment_clean_stage2_label)
+
+        # --- Thêm nút Copy Comment ---
+        self.comment_actions_layout = QHBoxLayout() # Layout mới cho nút copy
+        self.copy_comment_button = QPushButton("Copy Comment (C)", self) # Thêm nút mới
+        self.copy_comment_button.clicked.connect(self.copy_comment_text) # Kết nối signal
+        self.comment_actions_layout.addWidget(self.copy_comment_button)
+        self.comment_actions_layout.addStretch() # Đẩy nút sang trái (tùy chọn)
+        self.layout.addLayout(self.comment_actions_layout) # Thêm layout này vào layout chính
+        # --- Kết thúc thêm nút Copy ---
+
         self.index_label = QLabel("", self)
         self.layout.addWidget(self.index_label)
-
-        self.current_label = QLabel("Current Label: ", self)
-        self.layout.addWidget(self.current_label)
 
         self.rating_label = QLabel("Rating: ", self)
         self.layout.addWidget(self.rating_label)
@@ -74,7 +89,7 @@ class TextLabelingTool(QMainWindow):
         # Thêm hộp nhập vị trí hàng và nút Go
         self.jump_layout = QHBoxLayout()
         self.jump_input = QLineEdit(self)
-        self.jump_input.setPlaceholderText("Enter row number")
+        self.jump_input.setPlaceholderText("Enter row number (Count from 1)")
         self.jump_button = QPushButton("Go", self)
         self.jump_button.clicked.connect(self.jump_to_index)
 
@@ -82,15 +97,34 @@ class TextLabelingTool(QMainWindow):
         self.jump_layout.addWidget(self.jump_button)
         self.layout.addLayout(self.jump_layout)
 
+        self.installEventFilter(self)
+
         # Load current index from progress file if it exists
         self.load_progress()
         self.update_ui()
 
+        self.setFocusPolicy(Qt.StrongFocus)
+        self.setFocus()
+
+    def eventFilter(self, source, event):
+        # Kiểm tra xem có phải sự kiện nhấn phím không
+        if event.type() == QEvent.KeyPress:
+            key = event.key()
+
+            # Xử lý phím mũi tên ở đây
+            if key == Qt.Key_Left:
+                self.previous_comment()
+                return True # Trả về True để báo rằng sự kiện đã được xử lý
+
+            elif key == Qt.Key_Right:
+                self.skip_comment()
+                return True # Sự kiện đã được xử lý
+        return super().eventFilter(source, event)
+
     def load_progress(self):
-        progress_path = self.save_path.replace(".csv", "_progress.json")
-        if os.path.isfile(progress_path):
+        if os.path.isfile(self.progress_path):
             try:
-                with open(progress_path, "r") as f:
+                with open(self.progress_path, "r") as f:
                     data = json.load(f)
                     if "current_index" in data and 0 <= data["current_index"] < len(
                         self.df
@@ -100,10 +134,25 @@ class TextLabelingTool(QMainWindow):
             except Exception as e:
                 print(f"Error loading progress file: {e}")
 
+    def copy_comment_text(self):
+        """Sao chép nội dung của comment hiện tại vào clipboard."""
+        if 0 <= self.current_index < len(self.df):
+            try:
+                comment_text = str(self.df.iloc[self.current_index]['comment']) # Lấy text, đảm bảo là string
+                clipboard = QApplication.clipboard() # Lấy đối tượng clipboard
+                clipboard.setText(comment_text)     # Đặt text vào clipboard
+                print(f"Copied comment at index {self.current_index} to clipboard.")
+            except KeyError:
+                print("Error: 'comment' column not found.")
+            except Exception as e:
+                print(f"Error copying text: {e}")
+        else:
+            print("No comment to copy.")
+
     def update_ui(self):
         if 0 <= self.current_index < len(self.df):
             row = self.df.iloc[self.current_index]
-            self.comment_label.setText(f"Comment:\n{row['comment']}")
+            self.comment_label.setText(f"<b>Comment:</b><br>{row['comment']}")
             self.rating_label.setText(f"Rating: {row['rating']}")
 
             # Hiển thị số hàng hiện tại
@@ -113,10 +162,14 @@ class TextLabelingTool(QMainWindow):
             self.negative_checkbox.setChecked(False)
             
             self.previous_button.setEnabled(self.current_index > 0)
+            
+            self.comment_clean_stage1_label.setText(f"<b>Clean Stage 1 Comment:</b><br>{row['comment_clean_stage1']}")
+            self.comment_clean_stage2_label.setText(f"<b>Clean Stage 2 Comment:</b><br>{row['comment_clean_stage2']}")
         else:
             self.comment_label.setText("Labeling completed!")
+            self.comment_clean_stage1_label.setText("")
+            self.comment_clean_stage2_label.setText("")
             self.index_label.setText(f"Row: {len(self.df)}/{len(self.df)}")
-            self.current_label.setText("Current Label: None")
             self.rating_label.setText("Rating: None")
             self.save_button.setEnabled(False)
             self.next_button.setEnabled(False)
@@ -166,10 +219,6 @@ class TextLabelingTool(QMainWindow):
         if event.key() == Qt.Key_S:
             print("Shortcut S pressed")  # Debug kiểm tra phím
             self.save_label()
-        elif event.key() == Qt.Key_Left:
-            self.previous_comment()
-        elif event.key() == Qt.Key_Right:
-            self.skip_comment()
         elif event.key() == Qt.Key_Escape:
             self.close()
         elif event.key() == Qt.Key_1:
@@ -181,20 +230,20 @@ class TextLabelingTool(QMainWindow):
 
     def closeEvent(self, event):
         """Tự động lưu current_index khi cửa sổ đóng"""
-        progress_path = self.save_path.replace(".csv", "_progress.json")
-        with open(progress_path, "w") as f:
+        with open(self.progress_path, "w") as f:
             json.dump({"current_index": self.current_index}, f)
-        print(f"Saved current index to {progress_path}")
+        print(f"Saved current index to {self.progress_path}")
         super().closeEvent(event)
 
 
 if __name__ == "__main__":
-    unsure_labels_path = "../data/unsure-labels/phone_ratings_unsure_part1.csv"
-    output_path = "../data/result_from_labelling_tool/data_part1.csv"
+    unsure_labels_path = "../data/unsure_labels/phone_ratings_unsure_part1.csv"
+    progress_path = "../data/labelling_progress_path/phone_ratings_unsure_part1_progress.json"
+    output_path = "../data/sure_labels/labelling_data_part1.csv"
 
     double_check_data = pd.read_csv(unsure_labels_path, encoding="utf-8")
 
     app = QApplication(sys.argv)
-    window = TextLabelingTool(double_check_data, output_path)
+    window = TextLabelingTool(double_check_data, output_path, progress_path)
     window.show()
     sys.exit(app.exec_())
