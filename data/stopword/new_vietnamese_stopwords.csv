@@ -397,10 +397,10 @@ cơ_hồ,0
 cơ_hội,1
 cơ_mà,0
 cơn,1
-cả,1
+cả,0
 cả_nghe,1
 cả_nghĩ,1
-cả_ngày,1
+cả_ngày,0
 cả_người,1
 cả_nhà,1
 cả_năm,1
@@ -502,7 +502,7 @@ giống,0
 giống_người,1
 giống_nhau,0
 giống_như,0
-giờ,1
+giờ,0
 giờ_lâu,1
 giờ_này,1
 giờ_đi,1
@@ -715,7 +715,7 @@ lượng,1
 lượng_cả,1
 lượng_số,1
 lượng_từ,1
-lại,1
+lại,0
 lại_bộ,1
 lại_cái,1
 lại_còn,1
@@ -745,7 +745,7 @@ lấy_vào,1
 lấy_xuống,1
 lấy_được,1
 lấy_để,1
-lần,1
+lần,0
 lần_khác,1
 lần_lần,1
 lần_nào,0
@@ -781,7 +781,7 @@ mọi,1
 mọi_giờ,1
 mọi_khi,1
 mọi_lúc,1
-mọi_người,1
+mọi_người,0
 mọi_nơi,1
 mọi_sự,1
 mọi_thứ,1
@@ -855,7 +855,7 @@ ngoài_ra,1
 ngoài_xa,1
 ngoải,1
 nguồn,0
-ngày,1
+ngày,0
 ngày_càng,0
 ngày_cấp,1
 ngày_giờ,1
@@ -878,7 +878,7 @@ ngăn_ngắt,1
 ngươi,1
 người,1
 người_hỏi,1
-người_khác,1
+người_khác,0
 người_khách,1
 người_mình,1
 người_nghe,1
@@ -1035,7 +1035,7 @@ nói_xa,1
 nói_ý,1
 nói_đến,1
 nói_đủ,1
-năm,1
+năm,0
 năm_tháng,1
 nơi,1
 nơi_nơi,1
@@ -1218,7 +1218,7 @@ sao_bằng,0
 sao_cho,1
 sao_vậy,0
 sao_đang,1
-sau,1
+sau,0
 sau_chót,1
 sau_cuối,1
 sau_cùng,1
@@ -1305,7 +1305,7 @@ thà_rằng,1
 thành_ra,1
 thành_thử,1
 thái_quá,1
-tháng,1
+tháng,0
 tháng_ngày,1
 tháng_năm,1
 tháng_tháng,1
@@ -1945,3 +1945,5 @@ yêu_cầu,0
 ừ_ào,1
 ừ_ừ,1
 ử,1
+hey,1
+tiktok,1
