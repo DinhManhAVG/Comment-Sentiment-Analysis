@@ -1557,3 +1557,244 @@ honor-magic-capsule-notification-style,Kiểu thông báo Magic Capsule của Ho
 tecno-ella-smart-reply-suggestions,Gợi ý trả lời thông minh của trợ lý Ella trên Tecno hoạt động như thế nào?,gợi_ý trả_lời thông_minh trợ_lý ella trên tecno hoạt_động như_thế_nào,gợi_ý trả_lời thông_minh trợ_lý ella trên tecno hoạt_động như_thế_nào,0,0
 infinix-anti-peep-mode-display-privacy,Chế độ Chống nhìn trộm trên màn hình Infinix bảo vệ quyền riêng tư ra sao?,chế_độ chống trộm trên màn_hình infinix bảo_vệ quyền riêng_tư sao,chế_độ chống trộm trên màn_hình infinix bảo_vệ quyền riêng_tư sao,0,0
 poco-memory-extension-technology-details,Chi tiết về công nghệ Mở rộng bộ nhớ trên điện thoại Poco như thế nào?,chi_tiết công_nghệ mở_rộng bộ_nhớ trên điện_thoại poco như_thế_nào,chi_tiết công_nghệ mở_rộng bộ_nhớ trên điện_thoại poco như_thế_nào,0,0
+generic-phone,"Giá quá cao, không thể chấp nhận được",giá quá cao không_thể chấp_nhận được,giá quá cao không_thể chấp_nhận được,0,1
+generic-phone,Mức giá này thực sự trên trời,giá thực_sự trên trời,giá thực_sự trên trời,0,1
+generic-phone,Thật sự sốc với cái giá này,thật_sự sốc giá,thật_sự sốc giá,0,1
+generic-phone,"Giá cao ngất ngưởng, không đáng tiền",giá cao ngất_ngưởng không đáng tiền,giá cao ngất_ngưởng không đáng tiền,0,1
+generic-phone,"Giá này thì tôi xin kiếu, tìm chỗ khác rẻ hơn",giá kiếu chỗ khác rẻ hơn,giá kiếu chỗ khác rẻ hơn,0,1
+generic-phone,"Giá quá vô lý, không mua",giá quá vô_lý không mua,giá quá vô_lý không mua,0,1
+generic-phone,"Với giá này, tôi mong đợi nhiều hơn thế",giá mong_đợi nhiều hơn,giá mong_đợi nhiều hơn,0,1
+generic-phone,Giá cao mà chất lượng không tương xứng,giá cao mà chất_lượng không tương_xứng,giá cao mà chất_lượng không tương_xứng,0,1
+generic-phone,Giá này là cắt cổ rồi,giá cắt_cổ,giá cắt_cổ,0,1
+generic-phone,"Không thể tin được cái giá này, quá đắt",không_thể tin được giá quá đắt,không_thể tin được giá quá đắt,0,1
+generic-phone,Giá quá cao so với mặt bằng chung,giá quá cao so mặt_bằng,giá quá cao so mặt_bằng,0,1
+generic-phone,Giá này chỉ dành cho người nhiều tiền thôi,giá chỉ nhiều tiền,giá chỉ nhiều tiền,0,1
+generic-phone,Thấy giá cao là không muốn xem tiếp nữa,thấy giá cao không muốn tiếp,thấy giá cao không muốn tiếp,0,1
+generic-phone,"Giá cao quá, tôi không đủ khả năng",giá cao quá không đủ khả_năng,giá cao quá không đủ khả_năng,0,1
+generic-phone,"Giá này thì chịu, không mua nổi",giá chịu không mua nổi,giá chịu không mua nổi,0,1
+generic-phone,"Sản phẩm này giá quá cao, không hợp lý",sản_phẩm giá quá cao không hợp_lý,sản_phẩm giá quá cao không hợp_lý,0,1
+generic-phone,"Giá quá chát, không thể mua được",giá quá chát không_thể mua được,giá quá chát không_thể mua được,0,1
+generic-phone,Thất vọng với mức giá này,thất_vọng giá,thất_vọng giá,0,1
+generic-phone,Giá cao làm tôi mất hứng mua,giá cao làm mất hứng mua,giá cao làm mất hứng mua,0,1
+generic-phone,Giá này quá phi thực tế,giá quá phi thực_tế,giá quá phi thực_tế,0,1
+generic-store-service,Sẽ không bao giờ quay lại cửa hàng này nữa,không bao_giờ quay lại cửa_hàng,không bao_giờ quay lại cửa_hàng,0,1
+generic-store-service,"Quá thất vọng, không muốn mua ở đây thêm lần nào",quá thất_vọng không muốn mua thêm lần nào,quá thất_vọng không muốn mua thêm lần nào,0,1
+generic-store-service,"Dịch vụ tệ, tôi sẽ không giới thiệu cho ai",dịch_vụ tệ không giới_thiệu ai,dịch_vụ tệ không giới_thiệu ai,0,1
+generic-store-service,"Trải nghiệm mua sắm tồi tệ, không bao giờ trở lại",trải_nghiệm mua_sắm tồi_tệ không bao_giờ trở_lại,trải_nghiệm mua_sắm tồi_tệ không bao_giờ trở_lại,0,1
+generic-store-service,Cạch mặt cửa hàng này từ nay,cạch mặt cửa_hàng,cạch mặt cửa_hàng,0,1
+generic-store-service,"Không thể chấp nhận được, tôi sẽ không quay lại",không_thể chấp_nhận được không quay lại,không_thể chấp_nhận được không quay lại,0,1
+generic-store-service,Một lần và không bao giờ nữa với shop này,lần không bao_giờ shop,lần không bao_giờ shop,0,1
+generic-store-service,"Quá bực mình, sẽ không mua hàng ở đây nữa",quá bực_mình không mua hàng,quá bực_mình không mua hàng,0,1
+generic-store-service,"Thái độ phục vụ không tốt, tôi đi chỗ khác",thái_độ phục_vụ không tốt đi chỗ khác,thái_độ phục_vụ không tốt đi chỗ khác,0,1
+generic-store-service,Sẽ cảnh báo bạn bè đừng mua ở đây,cảnh_báo bạn_bè đừng mua,cảnh_báo bạn_bè đừng mua,0,1
+generic-phone-quality,Không tốt,không tốt,không tốt,0,1
+generic-phone-quality,tệ,tệ,tệ,0,1
+generic-phone-quality,Chất lượng không tốt,chất_lượng không tốt,chất_lượng không tốt,0,1
+generic-phone-quality,Rất không tốt,rất không tốt,rất không tốt,0,1
+generic-phone-quality,Sản phẩm này không tốt chút nào,sản_phẩm không tốt chút nào,sản_phẩm không tốt chút nào,0,1
+generic-phone-quality,Không tốt như quảng cáo,không tốt quảng_cáo,không tốt quảng_cáo,0,1
+generic-phone-quality,Hoàn toàn không tốt,hoàn_toàn không tốt,hoàn_toàn không tốt,0,1
+generic-phone-quality,Đánh giá là không tốt,đánh_giá không tốt,đánh_giá không tốt,0,1
+generic-phone-quality,Trải nghiệm không tốt,trải_nghiệm không tốt,trải_nghiệm không tốt,0,1
+generic-phone-quality,Thực sự không tốt,thực_sự không tốt,thực_sự không tốt,0,1
+generic-phone-quality,"Chất lượng quá tệ, không tốt",chất_lượng quá tệ không tốt,chất_lượng quá tệ không tốt,0,1
+iphone-15-price,"Giá iPhone 15 quá cao, đợi giảm giá mới mua",giá iphone 15 quá cao đợi giảm_giá mới mua,giá iphone 15 quá cao đợi giảm_giá mới mua,0,1
+samsung-s24-price,Giá S24 Ultra cao không tưởng,giá s24 ultra cao không_tưởng,giá s24 ultra cao không_tưởng,0,1
+xiaomi-14-price,Giá Xiaomi 14 đợt này cao quá,giá xiaomi 14 đợt cao quá,giá xiaomi 14 đợt cao quá,0,1
+oppo-reno12-price,Giá Reno 12 cao hơn mong đợi của tôi,giá reno 12 cao hơn mong_đợi,giá reno 12 cao hơn mong_đợi,0,1
+realme-gt6-price,Giá Realme GT6 cao thế này thì khó cạnh tranh,giá realme gt6 cao_thế khó cạnh_tranh,giá realme gt6 cao_thế khó cạnh_tranh,0,1
+vivo-x100-price,"Giá Vivo X100 Pro quá cao, không với tới",giá vivo x100 pro quá cao không,giá vivo x100 pro quá cao không,0,1
+pixel-9-price,Nếu Pixel 9 giá cao như vậy thì tôi bỏ qua,nếu pixel chín giá cao bỏ_qua,nếu pixel chín giá cao bỏ_qua,0,1
+rog-phone-8-price,"Giá ROG Phone 8 cao ngất, chỉ dành cho đại gia",giá rog phone tám cao_ngất chỉ đại_gia,giá rog phone tám cao_ngất chỉ đại_gia,0,1
+xperia-1vi-price,Giá Xperia 1 VI vẫn luôn ở mức cao khó hiểu,giá xperia vi vẫn cao khó,giá xperia vi vẫn cao khó,0,1
+nokia-magicmax-price,Giá Nokia Magic Max mà cao thì ai mua,giá nokia magic max mà cao ai mua,giá nokia magic max mà cao ai mua,0,1
+generic-store-attitude,"Thái độ nhân viên quá tệ, không muốn quay lại",thái_độ nhân_viên quá tệ không muốn quay lại,thái_độ nhân_viên quá tệ không muốn quay lại,0,1
+generic-store-policy,"Chính sách bảo hành không rõ ràng, tôi sẽ không mua nữa",chính_sách bảo_hành không rõ_ràng không mua,chính_sách bảo_hành không rõ_ràng không mua,0,1
+generic-product-defect,"Sản phẩm lỗi mà không được đổi trả, quá thất vọng, không bao giờ mua nữa",sản_phẩm lỗi mà không được đổi trả quá thất_vọng không bao_giờ mua,sản_phẩm lỗi mà không được đổi trả quá thất_vọng không bao_giờ mua,0,1
+generic-customer-service,"Gọi tổng đài không ai nghe máy, dịch vụ quá chán, không mua nữa",gọi tổng_đài không ai nghe máy dịch_vụ quá chán không mua,gọi tổng_đài không ai nghe máy dịch_vụ quá chán không mua,0,1
+generic-delivery-issue,"Giao hàng chậm trễ, không thông báo, sẽ không đặt hàng ở đây nữa",giao hàng chậm_trễ không thông_báo không đặt_hàng,giao hàng chậm_trễ không thông_báo không đặt_hàng,0,1
+generic-phone-battery-bad,"Pin quá tệ, không tốt chút nào",pin quá tệ không tốt chút nào,pin quá tệ không tốt chút nào,0,1
+generic-phone-camera-bad,"Camera chụp ảnh không tốt, thất vọng",camera chụp ảnh không tốt thất_vọng,camera chụp ảnh không tốt thất_vọng,0,1
+generic-phone-performance-bad,"Máy chạy không tốt, rất lag",máy chạy không tốt rất lag,máy chạy không tốt rất lag,0,1
+generic-phone-design-bad,"Thiết kế không tốt, nhìn rất xấu",thiết_kế không tốt rất xấu,thiết_kế không tốt rất xấu,0,1
+generic-phone-screen-bad,"Màn hình hiển thị không tốt, màu sắc nhợt nhạt",màn_hình hiển_thị không tốt màu_sắc nhợt_nhạt,màn_hình hiển_thị không tốt màu_sắc nhợt_nhạt,0,1
+iphone-13-price-high,Giá con iPhone 13 này cao quá shop ơi,giá iphone 13 cao quá shop,giá iphone 13 cao quá shop,0,1
+samsung-a55-price-high,Samsung A55 mà giá cao vậy sao,samsung a55 mà giá cao sao,samsung a55 mà giá cao sao,0,1
+xiaomi-note-13-price-high,Redmi Note 13 giá này thì hơi cao,redmi note 13 giá hơi cao,redmi note 13 giá hơi cao,0,1
+oppo-a79-price-high,"Oppo A79 giá cao quá, không mua",oppo a79 giá cao quá không mua,oppo a79 giá cao quá không mua,0,1
+realme-c65-price-high,Realme C65 mà giá cao thì chịu,realme c65 mà giá cao chịu,realme c65 mà giá cao chịu,0,1
+vivo-y36-price-high,Vivo Y36 giá này quá cao,vivo y36 giá quá cao,vivo y36 giá quá cao,0,1
+honor-x9b-price-high,Giá Honor X9b cao hơn các máy cùng cấu hình,giá honor x9b cao hơn máy cùng cấu_hình,giá honor x9b cao hơn máy cùng cấu_hình,0,1
+nokia-g42-price-high,"Nokia G42 giá quá cao, không đáng",nokia g42 giá quá cao không đáng,nokia g42 giá quá cao không đáng,0,1
+motorola-g54-price-high,Moto G54 giá cao so với những gì nó mang lại,moto g54 giá cao so gì mang lại,moto g54 giá cao so gì mang lại,0,1
+oneplus-nord-ce3-price-high,"Giá OnePlus Nord CE3 cao quá, không hợp lý",giá oneplus nord ce3 cao quá không hợp_lý,giá oneplus nord ce3 cao quá không hợp_lý,0,1
+generic-store-complaint,"Tôi rất không hài lòng với cửa hàng này, sẽ không quay lại.",rất không hài_lòng cửa_hàng không quay lại,rất không hài_lòng cửa_hàng không quay lại,0,1
+generic-product-disappointment,"Sản phẩm làm tôi quá thất vọng, không tốt như mong đợi.",sản_phẩm làm quá thất_vọng không tốt mong_đợi,sản_phẩm làm quá thất_vọng không tốt mong_đợi,0,1
+generic-service-bad-experience,"Trải nghiệm dịch vụ ở đây thật sự không tốt, không bao giờ nữa.",trải_nghiệm dịch_vụ thật_sự không tốt không bao_giờ,trải_nghiệm dịch_vụ thật_sự không tốt không bao_giờ,0,1
+generic-false-advertising,"Quảng cáo một đằng, sản phẩm một nẻo, không tốt, không mua lại.",quảng_cáo đằng sản_phẩm nẻo không tốt không mua lại,quảng_cáo đằng sản_phẩm nẻo không tốt không mua lại,0,1
+generic-no-support,"Không có hỗ trợ sau bán hàng, quá tệ, không quay lại.",không hỗ_trợ sau bán hàng quá tệ không quay lại,không hỗ_trợ sau bán hàng quá tệ không quay lại,0,1
+generic-waste-of-money,"Phí tiền mua sản phẩm này, chất lượng không tốt.",phí tiền mua sản_phẩm chất_lượng không tốt,phí tiền mua sản_phẩm chất_lượng không tốt,0,1
+generic-phone-overheats-badly,"Máy nóng ran khi dùng, không tốt chút nào, nguy hiểm.",máy nóng ran dùng không tốt chút nào nguy_hiểm,máy nóng ran dùng không tốt chút nào nguy_hiểm,0,1
+generic-phone-software-buggy,"Phần mềm đầy lỗi, trải nghiệm không tốt.",phần_mềm đầy lỗi trải_nghiệm không tốt,phần_mềm đầy lỗi trải_nghiệm không tốt,0,1
+generic-phone-poor-build-quality,"Chất lượng hoàn thiện kém, cảm giác ọp ẹp, không tốt.",chất_lượng hoàn_thiện kém cảm_giác ọp_ẹp không tốt,chất_lượng hoàn_thiện kém cảm_giác ọp_ẹp không tốt,0,1
+generic-phone-unreliable,"Điện thoại không đáng tin cậy, hay bị treo, không tốt.",điện_thoại không đáng tin_cậy hay bị treo không tốt,điện_thoại không đáng tin_cậy hay bị treo không tốt,0,1
+generic-price-not-worth-it,"Giá này không xứng đáng với sản phẩm, quá cao.",giá không xứng_đáng sản_phẩm quá cao,giá không xứng_đáng sản_phẩm quá cao,0,1
+generic-price-too-much,"Giá quá nhiều so với những gì tôi nhận được, không mua.",giá quá nhiều so gì nhận được không mua,giá quá nhiều so gì nhận được không mua,0,1
+generic-price-unreasonable,"Giá không hợp lý chút nào, quá cao.",giá không hợp_lý chút nào quá cao,giá không hợp_lý chút nào quá cao,0,1
+generic-price-shocking,"Giá gây sốc, không thể tin được, quá cao.",giá gây sốc không_thể tin được quá cao,giá gây sốc không_thể tin được quá cao,0,1
+generic-price-dissuaded-me,"Giá cao làm tôi nản lòng, không mua nữa.",giá cao làm nản_lòng không mua,giá cao làm nản_lòng không mua,0,1
+generic-store-will-avoid,Sẽ tránh xa cửa hàng này trong tương lai.,tránh cửa_hàng trong tương_lai,tránh cửa_hàng trong tương_lai,0,1
+generic-store-bad-reputation,"Cửa hàng này tai tiếng xấu, không dám mua.",cửa_hàng tai_tiếng xấu không dám mua,cửa_hàng tai_tiếng xấu không dám mua,0,1
+generic-store-lost-customer,"Các bạn đã mất một khách hàng, không bao giờ quay lại.",mất khách_hàng không bao_giờ quay lại,mất khách_hàng không bao_giờ quay lại,0,1
+generic-store-negative-feedback,Tôi sẽ để lại phản hồi tiêu cực ở khắp mọi nơi.,lại phản_hồi tiêu_cực khắp,lại phản_hồi tiêu_cực khắp,0,1
+generic-store-warning-others,Cảnh báo mọi người không nên mua hàng ở đây.,cảnh_báo mọi_người không nên mua hàng,cảnh_báo mọi_người không nên mua hàng,0,1
+generic-phone-not-good-label,Nhãn hiệu không tốt,nhãn_hiệu không tốt,nhãn_hiệu không tốt,0,1
+generic-phone-very-bad-quality-label,Chất lượng rất tệ nhãn,chất_lượng rất tệ nhãn,chất_lượng rất tệ nhãn,0,1
+generic-phone-terrible-experience-label,Trải nghiệm kinh khủng nhãn,trải_nghiệm kinh_khủng nhãn,trải_nghiệm kinh_khủng nhãn,0,1
+generic-phone-junk-product-label,Sản phẩm rác rưởi nhãn,sản_phẩm rác_rưởi nhãn,sản_phẩm rác_rưởi nhãn,0,1
+generic-phone-total-scam-label,Lừa đảo toàn tập nhãn,lừa_đảo toàn_tập nhãn,lừa_đảo toàn_tập nhãn,0,1
+generic-phone-price,"Giá trên mây, không thể mua nổi",giá trên mây không_thể mua nổi,giá trên mây không_thể mua nổi,0,1
+generic-phone-price,Giá này thì chỉ có nhìn thôi chứ không mua được,giá chỉ chứ không mua được,giá chỉ chứ không mua được,0,1
+generic-phone-price,"Sao giá lại cao đến thế được nhỉ, vô lý thật",sao giá lại cao được nhỉ vô_lý thật,sao giá lại cao được nhỉ vô_lý thật,0,1
+generic-phone-price,"Cái giá này làm tôi chóng mặt, quá cao",giá làm chóng_mặt quá cao,giá làm chóng_mặt quá cao,0,1
+generic-phone-price,Không thể hiểu nổi tại sao giá lại cao như vậy,không_thể nổi tại_sao giá lại cao,không_thể nổi tại_sao giá lại cao,0,1
+generic-phone-price,Giá này là thách thức người mua rồi,giá thách_thức mua,giá thách_thức mua,0,1
+generic-phone-price,"Giá quá ảo tưởng, không thực tế chút nào",giá quá ảo_tưởng không thực_tế chút nào,giá quá ảo_tưởng không thực_tế chút nào,0,1
+generic-phone-price,Với giá này tôi mua được hai cái máy khác còn tốt hơn,giá mua được hai máy khác tốt hơn,giá mua được hai máy khác tốt hơn,0,1
+generic-phone-price,"Giá này thì bán cho ai, quá cao",giá bán ai quá cao,giá bán ai quá cao,0,1
+generic-phone-price,"Giá cắt cổ, không bao giờ mua",giá cắt_cổ không bao_giờ mua,giá cắt_cổ không bao_giờ mua,0,1
+generic-store-experience,"Trải nghiệm mua hàng ở đây là một cơn ác mộng, không quay lại",trải_nghiệm mua hàng ác_mộng không quay lại,trải_nghiệm mua hàng ác_mộng không quay lại,0,1
+generic-store-service-bad,"Dịch vụ khách hàng không thể tệ hơn, sẽ không bao giờ giới thiệu",dịch_vụ khách_hàng không_thể tệ hơn không bao_giờ giới_thiệu,dịch_vụ khách_hàng không_thể tệ hơn không bao_giờ giới_thiệu,0,1
+generic-store-policy-unfair,"Chính sách đổi trả quá khắt khe và không công bằng, mất khách",chính_sách đổi trả quá khắt_khe không công_bằng mất khách,chính_sách đổi trả quá khắt_khe không công_bằng mất khách,0,1
+generic-store-waiting-time,"Chờ đợi quá lâu để được phục vụ, không chuyên nghiệp, không đến nữa",chờ_đợi quá lâu được phục_vụ không chuyên_nghiệp không,chờ_đợi quá lâu được phục_vụ không chuyên_nghiệp không,0,1
+generic-store-unhelpful-staff,"Nhân viên không nhiệt tình, không giúp đỡ được gì, quá chán",nhân_viên không nhiệt_tình không giúp_đỡ được gì quá chán,nhân_viên không nhiệt_tình không giúp_đỡ được gì quá chán,0,1
+generic-store-false-promise,"Hứa hẹn một đằng làm một nẻo, lừa dối khách hàng, không tin nữa",hứa_hẹn đằng làm nẻo lừa_dối khách_hàng không tin,hứa_hẹn đằng làm nẻo lừa_dối khách_hàng không tin,0,1
+generic-store-hygiene-bad,"Cửa hàng bẩn thỉu, không đảm bảo vệ sinh, không dám vào",cửa_hàng bẩn_thỉu không đảm_bảo vệ_sinh không dám,cửa_hàng bẩn_thỉu không đảm_bảo vệ_sinh không dám,0,1
+generic-store-noise-level,"Quá ồn ào, không thể tập trung xem sản phẩm, trải nghiệm tệ",quá ồn_ào không_thể sản_phẩm trải_nghiệm tệ,quá ồn_ào không_thể sản_phẩm trải_nghiệm tệ,0,1
+generic-store-no-stock,"Luôn báo hết hàng những sản phẩm hot, làm mất thời gian, không ghé nữa",báo hết hàng sản_phẩm hot làm mất thời_gian không ghé,báo hết hàng sản_phẩm hot làm mất thời_gian không ghé,0,1
+generic-store-pushy-sales,"Nhân viên bán hàng quá thúc ép, gây khó chịu, không mua",nhân_viên bán hàng quá thúc_ép gây khó_chịu không mua,nhân_viên bán hàng quá thúc_ép gây khó_chịu không mua,0,1
+generic-phone-quality-very-low,"Chất lượng sản phẩm quá thấp, không đáng một xu",chất_lượng sản_phẩm quá thấp không đáng xu,chất_lượng sản_phẩm quá thấp không đáng xu,0,1
+generic-phone-not-as-described,"Sản phẩm không giống như mô tả trên web, lừa đảo",sản_phẩm không giống mô_tả trên web lừa_đảo,sản_phẩm không giống mô_tả trên web lừa_đảo,0,1
+generic-phone-breaks-easily,"Mới dùng đã hỏng, chất lượng quá tệ",mới dùng hỏng chất_lượng quá tệ,mới dùng hỏng chất_lượng quá tệ,0,1
+generic-phone-useless-features,"Nhiều tính năng vô dụng, không thực tế",nhiều tính_năng vô_dụng không thực_tế,nhiều tính_năng vô_dụng không thực_tế,0,1
+generic-phone-outdated-technology,Công nghệ quá lỗi thời so với giá tiền,công_nghệ quá lỗi_thời so giá tiền,công_nghệ quá lỗi_thời so giá tiền,0,1
+generic-phone-difficult-to-use,"Khó sử dụng, giao diện phức tạp, không thân thiện",khó sử_dụng giao_diện phức_tạp không thân_thiện,khó sử_dụng giao_diện phức_tạp không thân_thiện,0,1
+generic-phone-no-updates,"Không có cập nhật phần mềm, bỏ rơi người dùng",không cập_nhật phần_mềm bỏ_rơi dùng,không cập_nhật phần_mềm bỏ_rơi dùng,0,1
+generic-phone-poor-reception,"Sóng sánh quá yếu, gọi điện chập chờn, không ổn",sóng_sánh quá yếu gọi điện chập_chờn không ổn,sóng_sánh quá yếu gọi điện chập_chờn không ổn,0,1
+generic-phone-terrible-sound-quality,"Chất lượng âm thanh loa ngoài quá tệ, nghe rất khó chịu",chất_lượng âm_thanh loa quá tệ nghe rất khó_chịu,chất_lượng âm_thanh loa quá tệ nghe rất khó_chịu,0,1
+generic-phone-screen-issues,"Màn hình bị lỗi điểm chết, không chấp nhận được",màn_hình bị lỗi điểm chết không chấp_nhận được,màn_hình bị lỗi điểm chết không chấp_nhận được,0,1
+iphone-16-price-speculation,Nếu iPhone 16 giá vẫn cao như vậy thì tôi chuyển sang Android,nếu iphone 16 giá vẫn cao chuyển android,nếu iphone 16 giá vẫn cao chuyển android,0,1
+samsung-foldable-price-barrier,Giá điện thoại gập của Samsung vẫn là rào cản lớn với nhiều người,giá điện_thoại gập samsung vẫn rào_cản lớn nhiều,giá điện_thoại gập samsung vẫn rào_cản lớn nhiều,0,1
+xiaomi-flagship-price-increase,"Giá flagship Xiaomi ngày càng tăng cao, không còn là 'ngon bổ rẻ' nữa",giá flagship xiaomi ngày_càng tăng cao không ngon bổ rẻ,giá flagship xiaomi ngày_càng tăng cao không ngon bổ rẻ,0,1
+oppo-premium-price-strategy,Chiến lược giá cao cấp của Oppo có vẻ không phù hợp với thị trường này,chiến_lược giá cao_cấp oppo có_vẻ không phù_hợp thị_trường,chiến_lược giá cao_cấp oppo có_vẻ không phù_hợp thị_trường,0,1
+realme-budget-phone-price-hike,Ngay cả điện thoại giá rẻ của Realme giờ giá cũng tăng cao,ngày cả điện_thoại giá rẻ realme giờ giá tăng cao,ngày cả điện_thoại giá rẻ realme giờ giá tăng cao,0,1
+vivo-midrange-overpriced,Phân khúc tầm trung của Vivo đang bị định giá quá cao,phân khúc tầm trung vivo bị định_giá quá cao,phân khúc tầm trung vivo bị định_giá quá cao,0,1
+pixel-availability-price-vn,Pixel khó mua chính hãng ở VN mà giá xách tay lại quá cao,pixel khó mua chính hãng việt_nam mà giá xách lại quá cao,pixel khó mua chính hãng việt_nam mà giá xách lại quá cao,0,1
+rog-phone-accessory-price,Giá phụ kiện của ROG Phone cũng đắt đỏ không kém gì máy,giá phụ_kiện rog phone đắt_đỏ không kém gì máy,giá phụ_kiện rog phone đắt_đỏ không kém gì máy,0,1
+xperia-professional-price-tag,Xperia nhắm đến chuyên nghiệp nhưng giá cũng ở mức chuyên nghiệp luôn,xperia nhắm chuyên_nghiệp nhưng giá chuyên_nghiệp,xperia nhắm chuyên_nghiệp nhưng giá chuyên_nghiệp,0,1
+nokia-comeback-price-point,Nokia muốn trở lại nhưng điểm giá chưa thực sự hấp dẫn,nokia muốn trở_lại nhưng điểm giá chưa thực_sự hấp_dẫn,nokia muốn trở_lại nhưng điểm giá chưa thực_sự hấp_dẫn,0,1
+generic-service-no-solution,"Không giải quyết được vấn đề của tôi, dịch vụ quá kém",không giải_quyết được vấn_đề dịch_vụ quá kém,không giải_quyết được vấn_đề dịch_vụ quá kém,0,1
+generic-staff-rude-unprofessional,"Nhân viên thô lỗ và thiếu chuyên nghiệp, không thể chấp nhận",nhân_viên thô_lỗ thiếu chuyên_nghiệp không_thể chấp_nhận,nhân_viên thô_lỗ thiếu chuyên_nghiệp không_thể chấp_nhận,0,1
+generic-product-misleading-info,"Thông tin sản phẩm gây hiểu lầm, không trung thực",thông_tin sản_phẩm gây lầm không trung_thực,thông_tin sản_phẩm gây lầm không trung_thực,0,1
+generic-repair-took-too-long,"Sửa chữa quá lâu, ảnh hưởng đến công việc, không hài lòng",sửa_chữa quá lâu ảnh_hưởng công_việc không hài_lòng,sửa_chữa quá lâu ảnh_hưởng công_việc không hài_lòng,0,1
+generic-hidden-charges,"Có nhiều chi phí ẩn không được thông báo trước, không minh bạch",nhiều chi_phí ẩn không được thông_báo không minh_bạch,nhiều chi_phí ẩn không được thông_báo không minh_bạch,0,1
+generic-phone-battery-drains-fast,"Pin tụt như uống nước lã, không dùng được bao lâu",pin tụt uống nước_lã không dùng được bao_lâu,pin tụt uống nước_lã không dùng được bao_lâu,0,1
+generic-phone-camera-blurry-images,"Camera chụp ảnh mờ ảo, không lấy nét được, quá tệ",camera chụp ảnh mờ_ảo không nét được quá tệ,camera chụp ảnh mờ_ảo không nét được quá tệ,0,1
+generic-phone-system-crashes-often,"Hệ thống hay bị treo và tự khởi động lại, không ổn định",hệ_thống hay bị treo khởi_động lại không ổn_định,hệ_thống hay bị treo khởi_động lại không ổn_định,0,1
+generic-phone-cheap-materials,"Cảm giác cầm nắm rất rẻ tiền, chất liệu ọp ẹp",cảm_giác cầm nắm rất rẻ_tiền chất_liệu ọp_ẹp,cảm_giác cầm nắm rất rẻ_tiền chất_liệu ọp_ẹp,0,1
+generic-phone-unresponsive-touch,"Cảm ứng không nhạy, lúc được lúc không, rất bực mình",cảm_ứng không nhạy lúc được lúc không rất bực_mình,cảm_ứng không nhạy lúc được lúc không rất bực_mình,0,1
+generic-phone-price-vs-value,"Giá trị nhận lại không tương xứng với số tiền bỏ ra, quá cao",giá_trị nhận lại không tương_xứng tiền bỏ quá cao,giá_trị nhận lại không tương_xứng tiền bỏ quá cao,0,1
+generic-phone-price-factor-negative,Yếu tố giá cả là một điểm trừ lớn,yếu_tố giá_cả điểm trừ lớn,yếu_tố giá_cả điểm trừ lớn,0,1
+generic-phone-price-deterrent,Giá là một rào cản khiến tôi không mua sản phẩm này,giá rào_cản khiến không mua sản_phẩm,giá rào_cản khiến không mua sản_phẩm,0,1
+generic-phone-price-unjustified,"Giá không hợp lý với những gì nó mang lại, quá cao",giá không hợp_lý gì mang lại quá cao,giá không hợp_lý gì mang lại quá cao,0,1
+generic-phone-price-too-steep,"Giá quá dốc, không thể theo được",giá quá dốc không_thể được,giá quá dốc không_thể được,0,1
+generic-store-never-again-policy,Chính sách của cửa hàng này khiến tôi không bao giờ muốn quay lại,chính_sách cửa_hàng khiến không bao_giờ muốn quay lại,chính_sách cửa_hàng khiến không bao_giờ muốn quay lại,0,1
+generic-store-bad-reviews-true,Những đánh giá tiêu cực về cửa hàng này hoàn toàn đúng sự thật,đánh_giá tiêu_cực cửa_hàng hoàn_toàn đúng sự_thật,đánh_giá tiêu_cực cửa_hàng hoàn_toàn đúng sự_thật,0,1
+generic-store-customer-lost-forever,Một khách hàng đã ra đi mãi mãi vì trải nghiệm tồi tệ này,khách_hàng đi mãi_mãi trải_nghiệm tồi_tệ,khách_hàng đi mãi_mãi trải_nghiệm tồi_tệ,0,1
+generic-store-formal-complaint,Tôi sẽ gửi khiếu nại chính thức về dịch vụ của các bạn,gửi khiếu_nại chính_thức dịch_vụ,gửi khiếu_nại chính_thức dịch_vụ,0,1
+generic-store-recommend-against,Tôi sẽ khuyên mọi người không nên đến cửa hàng này,khuyên mọi_người không nên cửa_hàng,khuyên mọi_người không nên cửa_hàng,0,1
+generic-phone-label-bad,Nhãn: Không tốt,nhãn không tốt,nhãn không tốt,0,1
+generic-phone-label-poor,Nhãn: Kém,nhãn kém,nhãn kém,0,1
+generic-phone-label-awful,Nhãn: Tồi tệ,nhãn tồi_tệ,nhãn tồi_tệ,0,1
+generic-phone-label-garbage,Nhãn: Đồ bỏ đi,nhãn đồ bỏ đi,nhãn đồ bỏ đi,0,1
+generic-phone-label-regret-buying,Nhãn: Hối hận khi mua,nhãn hối_hận mua,nhãn hối_hận mua,0,1
+iphone-generic-price,Giá iPhone lúc nào cũng cao chót vót,giá iphone lúc_nào cao chót_vót,giá iphone lúc_nào cao chót_vót,0,1
+samsung-generic-price,Giá điện thoại Samsung dòng S và Z quá cao,giá điện_thoại samsung dòng s quá cao,giá điện_thoại samsung dòng s quá cao,0,1
+xiaomi-generic-price,Giá điện thoại Xiaomi giờ không còn rẻ nữa rồi,giá điện_thoại xiaomi giờ không rẻ,giá điện_thoại xiaomi giờ không rẻ,0,1
+oppo-generic-price,Giá điện thoại Oppo đang ngày càng tiệm cận flagship,giá điện_thoại oppo ngày_càng tiệm_cận flagship,giá điện_thoại oppo ngày_càng tiệm_cận flagship,0,1
+realme-generic-price,Giá Realme tăng cao hơn so với trước đây,giá realme tăng cao hơn so,giá realme tăng cao hơn so,0,1
+vivo-generic-price,Giá Vivo dòng X quá cao so với thương hiệu,giá vivo dòng x quá cao so thương_hiệu,giá vivo dòng x quá cao so thương_hiệu,0,1
+google-pixel-generic-price,Giá Pixel xách tay về Việt Nam quá cao,giá pixel xách việt_nam quá cao,giá pixel xách việt_nam quá cao,0,1
+asus-rog-generic-price,"Giá ROG phone thì khỏi nói rồi, luôn cao nhất",giá rog phone khỏi nói cao nhất,giá rog phone khỏi nói cao nhất,0,1
+sony-xperia-generic-price,"Giá Xperia vẫn luôn là một bí ẩn, quá cao",giá xperia vẫn bí_ẩn quá cao,giá xperia vẫn bí_ẩn quá cao,0,1
+nokia-smartphone-generic-price,Giá smartphone Nokia hiện tại không cạnh tranh nổi,giá smartphone nokia không cạnh_tranh nổi,giá smartphone nokia không cạnh_tranh nổi,0,1
+generic-phone-unusable,"Điện thoại này gần như không thể sử dụng được, quá tệ",điện_thoại không_thể sử_dụng được quá tệ,điện_thoại không_thể sử_dụng được quá tệ,0,1
+generic-phone-defective-on-arrival,"Sản phẩm lỗi ngay khi mở hộp, không thể chấp nhận",sản_phẩm lỗi ngày mở hộp không_thể chấp_nhận,sản_phẩm lỗi ngày mở hộp không_thể chấp_nhận,0,1
+generic-phone-false-specs,Thông số kỹ thuật quảng cáo không đúng sự thật,thông_số kỹ_thuật quảng_cáo không đúng sự_thật,thông_số kỹ_thuật quảng_cáo không đúng sự_thật,0,1
+generic-phone-customer-support-useless,"Hỗ trợ khách hàng hoàn toàn vô dụng, không giải quyết được gì",hỗ_trợ khách_hàng hoàn_toàn vô_dụng không giải_quyết được gì,hỗ_trợ khách_hàng hoàn_toàn vô_dụng không giải_quyết được gì,0,1
+generic-phone-return-policy-nightmare,"Chính sách đổi trả là một cơn ác mộng, quá rắc rối",chính_sách đổi trả ác_mộng quá rắc_rối,chính_sách đổi trả ác_mộng quá rắc_rối,0,1
+generic-phone-overpriced-junk,"Đồ bỏ đi mà giá trên trời, không thể tin được",đồ bỏ đi mà giá trên trời không_thể tin được,đồ bỏ đi mà giá trên trời không_thể tin được,0,1
+generic-phone-planned-obsolescence,"Cảm giác như sản phẩm được thiết kế để nhanh hỏng, không tốt",cảm_giác sản_phẩm được thiết_kế nhanh hỏng không tốt,cảm_giác sản_phẩm được thiết_kế nhanh hỏng không tốt,0,1
+generic-phone-security-flaws,"Lỗ hổng bảo mật nghiêm trọng, không an toàn",lỗ_hổng bảo_mật nghiêm_trọng không an_toàn,lỗ_hổng bảo_mật nghiêm_trọng không an_toàn,0,1
+generic-phone-privacy-concerns,Lo ngại về quyền riêng tư khi sử dụng điện thoại này,lo_ngại quyền riêng_tư sử_dụng điện_thoại,lo_ngại quyền riêng_tư sử_dụng điện_thoại,0,1
+generic-phone-eco-unfriendly,"Sản phẩm không thân thiện với môi trường, không ủng hộ",sản_phẩm không thân_thiện môi_trường không ủng_hộ,sản_phẩm không thân_thiện môi_trường không ủng_hộ,0,1
+generic-price-way-too-high,Giá thực sự quá quá cao,giá thực_sự quá quá cao,giá thực_sự quá quá cao,0,1
+generic-price-not-affordable,"Giá này không phải ai cũng mua được, quá cao",giá không phải ai mua được quá cao,giá không phải ai mua được quá cao,0,1
+generic-price-out-of-reach,"Giá ngoài tầm với của tôi, quá cao",giá tầm quá cao,giá tầm quá cao,0,1
+generic-price-exorbitant,"Giá cắt cổ đến mức phi lý, quá cao",giá cắt_cổ phi_lý quá cao,giá cắt_cổ phi_lý quá cao,0,1
+generic-price-ridiculous,"Giá nực cười, không thể chấp nhận, quá cao",giá nực_cười không_thể chấp_nhận quá cao,giá nực_cười không_thể chấp_nhận quá cao,0,1
+generic-store-terrible-management,"Quản lý cửa hàng quá tệ, không giải quyết được vấn đề",quản_lý cửa_hàng quá tệ không giải_quyết được vấn_đề,quản_lý cửa_hàng quá tệ không giải_quyết được vấn_đề,0,1
+generic-store-dirty-environment,"Môi trường cửa hàng không sạch sẽ, rất khó chịu",môi_trường cửa_hàng không sạch_sẽ rất khó_chịu,môi_trường cửa_hàng không sạch_sẽ rất khó_chịu,0,1
+generic-store-long-queues-no-solution,"Xếp hàng dài mà không có giải pháp, quá tệ",xếp_hàng dài mà không giải_pháp quá tệ,xếp_hàng dài mà không giải_pháp quá tệ,0,1
+generic-store-chaotic-atmosphere,"Không khí hỗn loạn, không có trật tự, mua sắm mệt mỏi",không_khí hỗn_loạn không trật_tự mua_sắm mệt_mỏi,không_khí hỗn_loạn không trật_tự mua_sắm mệt_mỏi,0,1
+generic-store-lack-of-information,"Thiếu thông tin sản phẩm rõ ràng, nhân viên không biết, quá chán",thiếu thông_tin sản_phẩm rõ_ràng nhân_viên không biết quá chán,thiếu thông_tin sản_phẩm rõ_ràng nhân_viên không biết quá chán,0,1
+generic-store-service,"Một trải nghiệm tồi tệ, tôi sẽ không bao giờ quay lại đây nữa.",trải_nghiệm tồi_tệ không bao_giờ quay lại,trải_nghiệm tồi_tệ không bao_giờ quay lại,0,1
+generic-store-service,"Thất vọng hoàn toàn, cạch mặt cửa hàng này vĩnh viễn.",thất_vọng hoàn_toàn cạch mặt cửa_hàng vĩnh_viễn,thất_vọng hoàn_toàn cạch mặt cửa_hàng vĩnh_viễn,0,1
+generic-store-service,Sau lần này thì không bao giờ có lần thứ hai tôi đến đây.,sau lần không bao_giờ lần hai,sau lần không bao_giờ lần hai,0,1
+generic-store-service,"Quá đủ rồi, tôi sẽ không bao giờ mua sắm ở cái nơi này nữa.",quá đủ không bao_giờ mua_sắm,quá đủ không bao_giờ mua_sắm,0,1
+generic-store-service,"Dịch vụ quá tệ, xin lỗi nhưng tôi không thể quay lại.",dịch_vụ quá tệ xin_lỗi nhưng không_thể quay lại,dịch_vụ quá tệ xin_lỗi nhưng không_thể quay lại,0,1
+generic-store-service,"Cửa hàng này đã mất một khách hàng trung thành, không bao giờ trở lại.",cửa_hàng mất khách_hàng trung_thành không bao_giờ trở_lại,cửa_hàng mất khách_hàng trung_thành không bao_giờ trở_lại,0,1
+generic-store-service,"Không thể chấp nhận được cách làm việc ở đây, tôi sẽ không quay lại.",không_thể chấp_nhận được cách làm_việc không quay lại,không_thể chấp_nhận được cách làm_việc không quay lại,0,1
+generic-store-service,Chắc chắn đây là lần cuối cùng tôi đặt chân đến cửa hàng này.,chắc_chắn lần cuối_cùng đặt_chân cửa_hàng,chắc_chắn lần cuối_cùng đặt_chân cửa_hàng,0,1
+generic-store-service,"Tôi sẽ nói với bạn bè và gia đình đừng bao giờ đến đây, tôi cũng không quay lại.",nói bạn_bè gia_đình đừng bao_giờ không quay lại,nói bạn_bè gia_đình đừng bao_giờ không quay lại,0,1
+generic-store-service,"Quá bực mình, xóa sổ cửa hàng này khỏi danh sách của tôi, không quay lại.",quá bực_mình xoá_sổ cửa_hàng khỏi danh_sách không quay lại,quá bực_mình xoá_sổ cửa_hàng khỏi danh_sách không quay lại,0,1
+generic-product-quality,"Chất lượng sản phẩm quá tệ, tôi sẽ không bao giờ mua lại thương hiệu này.",chất_lượng sản_phẩm quá tệ không bao_giờ mua lại thương_hiệu,chất_lượng sản_phẩm quá tệ không bao_giờ mua lại thương_hiệu,0,1
+generic-product-quality,"Thất vọng với sản phẩm, không đời nào tôi mua lại lần nữa.",thất_vọng sản_phẩm không đời_nào mua lại lần,thất_vọng sản_phẩm không đời_nào mua lại lần,0,1
+generic-product-quality,"Sau khi dùng sản phẩm này, tôi quyết định sẽ không bao giờ mua của hãng này nữa.",sau dùng sản_phẩm quyết_định không bao_giờ mua hãng,sau dùng sản_phẩm quyết_định không bao_giờ mua hãng,0,1
+generic-product-quality,"Sản phẩm không như quảng cáo, lãng phí tiền bạc, không mua lại.",sản_phẩm không quảng_cáo lãng_phí tiền_bạc không mua lại,sản_phẩm không quảng_cáo lãng_phí tiền_bạc không mua lại,0,1
+generic-product-quality,"Một lần và mãi mãi, không bao giờ mua lại thứ này.",lần mãi_mãi không bao_giờ mua lại,lần mãi_mãi không bao_giờ mua lại,0,1
+generic-customer-support,"Hỗ trợ khách hàng quá tệ, tôi sẽ không mua bất cứ thứ gì từ công ty này nữa.",hỗ_trợ khách_hàng quá tệ không mua gì công_ty,hỗ_trợ khách_hàng quá tệ không mua gì công_ty,0,1
+generic-customer-support,"Gọi hỗ trợ mà như không, quá chán, không bao giờ mua lại.",gọi hỗ_trợ mà không quá chán không bao_giờ mua lại,gọi hỗ_trợ mà không quá chán không bao_giờ mua lại,0,1
+generic-warranty-issue,"Bảo hành như không bảo hành, tôi sẽ không mua sản phẩm nào của hãng này nữa.",bảo_hành không bảo_hành không mua sản_phẩm nào hãng,bảo_hành không bảo_hành không mua sản_phẩm nào hãng,0,1
+generic-warranty-issue,"Chính sách bảo hành tệ hại, mất niềm tin, không mua lại.",chính_sách bảo_hành tệ_hại mất niềm tin không mua lại,chính_sách bảo_hành tệ_hại mất niềm tin không mua lại,0,1
+generic-false-advertising,"Quảng cáo lừa dối, tôi sẽ không bao giờ tin và mua lại sản phẩm của họ.",quảng_cáo lừa_dối không bao_giờ tin mua lại sản_phẩm,quảng_cáo lừa_dối không bao_giờ tin mua lại sản_phẩm,0,1
+generic-store-attitude,"Thái độ nhân viên không thể chấp nhận được, không bao giờ tôi quay lại đây.",thái_độ nhân_viên không_thể chấp_nhận được không bao_giờ quay lại,thái_độ nhân_viên không_thể chấp_nhận được không bao_giờ quay lại,0,1
+generic-store-price-issue,"Giá cả mập mờ, cảm giác bị lừa, sẽ không quay lại cửa hàng này.",giá_cả mập_mờ cảm_giác bị lừa không quay lại cửa_hàng,giá_cả mập_mờ cảm_giác bị lừa không quay lại cửa_hàng,0,1
+generic-store-hygiene-bad,"Cửa hàng quá bẩn, mất vệ sinh, tôi sẽ không bao giờ quay lại.",cửa_hàng quá bẩn mất vệ_sinh không bao_giờ quay lại,cửa_hàng quá bẩn mất vệ_sinh không bao_giờ quay lại,0,1
+generic-store-long-wait,"Chờ đợi mệt mỏi mà không được gì, không bao giờ quay lại nơi này.",chờ_đợi mệt_mỏi mà không được gì không bao_giờ quay lại,chờ_đợi mệt_mỏi mà không được gì không bao_giờ quay lại,0,1
+generic-store-unprofessional,"Làm việc thiếu chuyên nghiệp, tôi không thể quay lại đây được.",làm_việc thiếu chuyên_nghiệp không_thể quay lại được,làm_việc thiếu chuyên_nghiệp không_thể quay lại được,0,1
+generic-product-defect-no-return,"Sản phẩm lỗi mà không cho đổi trả, quá đáng, không mua lại.",sản_phẩm lỗi mà không đổi trả quá_đáng không mua lại,sản_phẩm lỗi mà không đổi trả quá_đáng không mua lại,0,1
+generic-product-unsafe,"Sản phẩm không an toàn, nguy hiểm, sẽ không bao giờ dùng lại.",sản_phẩm không an_toàn nguy_hiểm không bao_giờ dùng lại,sản_phẩm không an_toàn nguy_hiểm không bao_giờ dùng lại,0,1
+generic-online-order-bad,"Đặt hàng online mà giao sai sản phẩm, quá tệ, không đặt lại.",đặt_hàng online mà giao sai sản_phẩm quá tệ không đặt lại,đặt_hàng online mà giao sai sản_phẩm quá tệ không đặt lại,0,1
+generic-delivery-fail,"Giao hàng thất bại nhiều lần, dịch vụ không chấp nhận được, không mua nữa.",giao hàng thất_bại nhiều lần dịch_vụ không chấp_nhận được không mua,giao hàng thất_bại nhiều lần dịch_vụ không chấp_nhận được không mua,0,1
+generic-company-policy-bad,"Chính sách công ty quá tệ, tôi sẽ không ủng hộ họ nữa.",chính_sách công_ty quá tệ không ủng_hộ,chính_sách công_ty quá tệ không ủng_hộ,0,1
+generic-overall-experience-negative,"Trải nghiệm tổng thể quá tiêu cực, tôi quyết định không quay lại.",trải_nghiệm tổng_thể quá tiêu_cực quyết_định không quay lại,trải_nghiệm tổng_thể quá tiêu_cực quyết_định không quay lại,0,1
+generic-store-lost-my-trust,"Cửa hàng này đã làm mất lòng tin của tôi, sẽ không quay lại.",cửa_hàng làm mất_lòng tin không quay lại,cửa_hàng làm mất_lòng tin không quay lại,0,1
+generic-product-not-worth-hassle,"Sản phẩm không đáng để tôi phải chịu đựng sự phiền phức này, không mua lại.",sản_phẩm không đáng phải chịu_đựng phiền_phức không mua lại,sản_phẩm không đáng phải chịu_đựng phiền_phức không mua lại,0,1
+generic-service-unacceptable,"Dịch vụ này hoàn toàn không thể chấp nhận được, tôi sẽ không sử dụng nữa.",dịch_vụ hoàn_toàn không_thể chấp_nhận được không sử_dụng,dịch_vụ hoàn_toàn không_thể chấp_nhận được không sử_dụng,0,1
+generic-brand-disappointment,"Thương hiệu này làm tôi quá thất vọng, sẽ không mua sản phẩm nào của họ nữa.",thương_hiệu làm quá thất_vọng không mua sản_phẩm nào,thương_hiệu làm quá thất_vọng không mua sản_phẩm nào,0,1
+generic-phone-issue-no-fix,"Điện thoại lỗi mà không sửa được, quá chán, không bao giờ mua hãng này nữa.",điện_thoại lỗi mà không sửa được quá chán không bao_giờ mua hãng,điện_thoại lỗi mà không sửa được quá chán không bao_giờ mua hãng,0,1
+generic-accessory-broke-fast,"Phụ kiện mới mua đã hỏng, chất lượng kém, không mua lại.",phụ_kiện mới mua hỏng chất_lượng kém không mua lại,phụ_kiện mới mua hỏng chất_lượng kém không mua lại,0,1
+generic-software-update-brick-phone,"Cập nhật phần mềm làm hỏng máy, không thể tin được, không dùng hãng này nữa.",cập_nhật phần_mềm làm hỏng máy không_thể tin được không dùng hãng,cập_nhật phần_mềm làm hỏng máy không_thể tin được không dùng hãng,0,1
+generic-data-privacy-concern,"Lo ngại về bảo mật dữ liệu, tôi sẽ không sử dụng sản phẩm của họ nữa.",lo_ngại bảo_mật dữ_liệu không sử_dụng sản_phẩm,lo_ngại bảo_mật dữ_liệu không sử_dụng sản_phẩm,0,1
+generic-customer-feedback-ignored,"Phản hồi của khách hàng bị phớt lờ, tôi sẽ không ủng hộ nữa.",phản_hồi khách_hàng bị phớt_lờ không ủng_hộ,phản_hồi khách_hàng bị phớt_lờ không ủng_hộ,0,1
+generic-store-checkout-nightmare,"Thanh toán ở cửa hàng này là một cực hình, không bao giờ quay lại.",thanh_toán cửa_hàng cực_hình không bao_giờ quay lại,thanh_toán cửa_hàng cực_hình không bao_giờ quay lại,0,1
+generic-product-recall-inconvenience,"Sản phẩm bị thu hồi gây quá nhiều bất tiện, sẽ không mua lại.",sản_phẩm bị thu_hồi gây quá nhiều bất_tiện không mua lại,sản_phẩm bị thu_hồi gây quá nhiều bất_tiện không mua lại,0,1
+generic-store-parking-terrible,"Bãi đậu xe quá tệ, không có chỗ, sẽ không ghé lại.",bãi đậu xe quá tệ không chỗ không ghé lại,bãi đậu xe quá tệ không chỗ không ghé lại,0,1
+generic-website-user-unfriendly,"Website khó sử dụng, đặt hàng phức tạp, sẽ không mua online ở đây nữa.",website khó sử_dụng đặt_hàng phức_tạp không mua online,website khó sử_dụng đặt_hàng phức_tạp không mua online,0,1
+generic-app-buggy-unusable,"Ứng dụng của hãng đầy lỗi, không dùng được, sẽ không mua sản phẩm liên quan.",ứng_dụng hãng đầy lỗi không dùng được không mua sản_phẩm,ứng_dụng hãng đầy lỗi không dùng được không mua sản_phẩm,0,1
+generic-misleading-product-photos,"Hình ảnh sản phẩm trên mạng khác xa thực tế, lừa dối, không mua lại.",hình_ảnh sản_phẩm trên mạng khác thực_tế lừa_dối không mua lại,hình_ảnh sản_phẩm trên mạng khác thực_tế lừa_dối không mua lại,0,1
+generic-return-process-difficult,"Quy trình đổi trả quá khó khăn, mất thời gian, không mua ở đây nữa.",quy_trình đổi trả quá khó_khăn mất thời_gian không mua,quy_trình đổi trả quá khó_khăn mất thời_gian không mua,0,1
+generic-customer-service-rude-staff,"Nhân viên hỗ trợ khách hàng thô lỗ, không thể chấp nhận, không quay lại.",nhân_viên hỗ_trợ khách_hàng thô_lỗ không_thể chấp_nhận không quay lại,nhân_viên hỗ_trợ khách_hàng thô_lỗ không_thể chấp_nhận không quay lại,0,1
+generic-subscription-trap,"Dịch vụ đăng ký như một cái bẫy, khó hủy, sẽ không dùng nữa.",dịch_vụ đăng_ký bẫy khó huỷ không dùng,dịch_vụ đăng_ký bẫy khó huỷ không dùng,0,1
+generic-planned-obsolescence-felt,"Cảm giác sản phẩm cố tình làm cho nhanh hỏng, tôi sẽ không mua lại.",cảm_giác sản_phẩm cố_tình làm nhanh hỏng không mua lại,cảm_giác sản_phẩm cố_tình làm nhanh hỏng không mua lại,0,1
