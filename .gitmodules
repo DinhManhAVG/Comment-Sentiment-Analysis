@@ -1,0 +1,3 @@
+[submodule "ui/vi-comment-sentiment"]
+	path = ui/vi-comment-sentiment
+	url = https://huggingface.co/spaces/taiphanvan2403/vi-comment-sentiment
